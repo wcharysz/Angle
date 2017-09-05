@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CDLowisko" representedClassName="CDLowisko" syncable="YES" codeGenerationType="class">
+        <attribute name="latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lowisko_id" optional="YES" attributeType="Integer 32" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lowisko_nazwa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="opis" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="polozenie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ryby_nazwa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_adres" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_nazwa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_telefon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_www" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wojewodztwo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wojewodztwo_latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wojewodztwo_longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="CDMojeLowiska" representedClassName="CDMojeLowiska" syncable="YES" codeGenerationType="class">
+        <attribute name="gmina" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lowisko_id" optional="YES" attributeType="Integer 32" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lowisko_nazwa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="miejscowosc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="opis" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="polozenie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="powiat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ryby_nazwa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_adres" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_nazwa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_telefon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wlasciciel_www" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wojewodztwo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wojewodztwo_latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wojewodztwo_longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="CDWyprawy" representedClassName="CDWyprawy" syncable="YES" codeGenerationType="class">
+        <attribute name="wyprawa_cisnienie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_data" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_id" optional="YES" attributeType="Integer 32" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_lat" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_long" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_lowisko" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_opady" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_pogoda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba1_dlugosc" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba1_metoda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba1_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba1_przyneta" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba1_waga" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba1_zdjecie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba2_dlugosc" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba2_metoda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba2_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba2_przyneta" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba2_waga" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba2_zdjecie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba3_dlugosc" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba3_metoda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba3_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba3_przyneta" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba3_waga" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba3_zdjecie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba4_dlugosc" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba4_metoda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba4_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba4_przyneta" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba4_waga" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba4_zdjecie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba5_dlugosc" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba5_metoda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba5_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba5_przyneta" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_ryba5_waga" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wyprawa_ryba5_zdjecie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_temperatura" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_wiatr_kierunek" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_wiatr_predkosc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wyprawa_wilgotnosc" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CDMojeLowiska" positionX="27" positionY="72" width="128" height="315"/>
+        <element name="CDLowisko" positionX="72" positionY="252" width="128" height="270"/>
+        <element name="CDWyprawy" positionX="63" positionY="234" width="128" height="705"/>
+    </elements>
+</model>

@@ -7,10 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8936FEFAB648EF5B34344AFA /* Pods_Ryboszukacz_Swift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70B64408F098C49E57B7D6F1 /* Pods_Ryboszukacz_Swift.framework */; };
+		CE074AA81F45F5A800875BDC /* LowiskaViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE074AA71F45F5A800875BDC /* LowiskaViewModel.swift */; };
+		CE074AAA1F45F5DC00875BDC /* ObjectWithViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE074AA91F45F5DC00875BDC /* ObjectWithViewModel.swift */; };
+		CE074AAC1F45F61600875BDC /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE074AAB1F45F61600875BDC /* ViewModel.swift */; };
+		CE0F6C821F43744A0039B1E3 /* LicenseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C811F43744A0039B1E3 /* LicenseViewController.swift */; };
+		CE0F6C841F437AC50039B1E3 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C831F437AC50039B1E3 /* Constants.swift */; };
+		CE0F6C861F44BE070039B1E3 /* LowiskaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */; };
+		CE0F6C891F44DAD60039B1E3 /* UIToolbarExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */; };
 		CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A581F28E417008B25CB /* AppDelegate.swift */; };
-		CE797A5B1F28E417008B25CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5A1F28E417008B25CB /* ViewController.swift */; };
+		CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5A1F28E417008B25CB /* MenuViewController.swift */; };
 		CE797A5E1F28E417008B25CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE797A5C1F28E417008B25CB /* Main.storyboard */; };
-		CE797A611F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5F1F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodeld */; };
+		CE797A611F28E417008B25CB /* LowiskaModelNew.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5F1F28E417008B25CB /* LowiskaModelNew.xcdatamodeld */; };
 		CE797A631F28E417008B25CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE797A621F28E417008B25CB /* Assets.xcassets */; };
 		CE797A661F28E417008B25CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE797A641F28E417008B25CB /* LaunchScreen.storyboard */; };
 		CE797A711F28E417008B25CB /* Ryboszukacz_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A701F28E417008B25CB /* Ryboszukacz_SwiftTests.swift */; };
@@ -35,11 +43,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EA75DFACE9B4591A46448D8 /* Pods-Ryboszukacz-Swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ryboszukacz-Swift.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Ryboszukacz-Swift/Pods-Ryboszukacz-Swift.debug.xcconfig"; sourceTree = "<group>"; };
+		70B64408F098C49E57B7D6F1 /* Pods_Ryboszukacz_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Ryboszukacz_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE074AA71F45F5A800875BDC /* LowiskaViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LowiskaViewModel.swift; sourceTree = "<group>"; };
+		CE074AA91F45F5DC00875BDC /* ObjectWithViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectWithViewModel.swift; sourceTree = "<group>"; };
+		CE074AAB1F45F61600875BDC /* ViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		CE0F6C811F43744A0039B1E3 /* LicenseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LicenseViewController.swift; sourceTree = "<group>"; };
+		CE0F6C831F437AC50039B1E3 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LowiskaViewController.swift; sourceTree = "<group>"; };
+		CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIToolbarExtension.swift; sourceTree = "<group>"; };
 		CE797A551F28E417008B25CB /* Ryboszukacz-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ryboszukacz-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE797A581F28E417008B25CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CE797A5A1F28E417008B25CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CE797A5A1F28E417008B25CB /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MenuViewController.swift; path = ../MenuViewController.swift; sourceTree = "<group>"; };
 		CE797A5D1F28E417008B25CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CE797A601F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Ryboszukacz_Swift.xcdatamodel; sourceTree = "<group>"; };
+		CE797A601F28E417008B25CB /* LowiskaModelNew.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LowiskaModelNew.xcdatamodel; sourceTree = "<group>"; };
 		CE797A621F28E417008B25CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE797A651F28E417008B25CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE797A671F28E417008B25CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -49,6 +66,7 @@
 		CE797A771F28E417008B25CB /* Ryboszukacz-SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ryboszukacz-SwiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE797A7B1F28E417008B25CB /* Ryboszukacz_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ryboszukacz_SwiftUITests.swift; sourceTree = "<group>"; };
 		CE797A7D1F28E417008B25CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAC715D892EEACA4A3C9E9EF /* Pods-Ryboszukacz-Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ryboszukacz-Swift.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ryboszukacz-Swift/Pods-Ryboszukacz-Swift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8936FEFAB648EF5B34344AFA /* Pods_Ryboszukacz_Swift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,6 +95,67 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		20A3302295C35185E79DC57E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				70B64408F098C49E57B7D6F1 /* Pods_Ryboszukacz_Swift.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3E7D4B298B45A2E7877884CF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0EA75DFACE9B4591A46448D8 /* Pods-Ryboszukacz-Swift.debug.xcconfig */,
+				FAC715D892EEACA4A3C9E9EF /* Pods-Ryboszukacz-Swift.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		CE0F6C7D1F4373E30039B1E3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CE0F6C7E1F4373E90039B1E3 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CE0F6C7F1F4373F00039B1E3 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				CE797A5A1F28E417008B25CB /* MenuViewController.swift */,
+				CE0F6C811F43744A0039B1E3 /* LicenseViewController.swift */,
+				CE074AA71F45F5A800875BDC /* LowiskaViewModel.swift */,
+				CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		CE0F6C801F4373F70039B1E3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CE797A5F1F28E417008B25CB /* LowiskaModelNew.xcdatamodeld */,
+				CE0F6C831F437AC50039B1E3 /* Constants.swift */,
+				CE074AA91F45F5DC00875BDC /* ObjectWithViewModel.swift */,
+				CE074AAB1F45F61600875BDC /* ViewModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CE0F6C871F44DAA90039B1E3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		CE797A4C1F28E416008B25CB = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +163,8 @@
 				CE797A6F1F28E417008B25CB /* Ryboszukacz-SwiftTests */,
 				CE797A7A1F28E417008B25CB /* Ryboszukacz-SwiftUITests */,
 				CE797A561F28E417008B25CB /* Products */,
+				3E7D4B298B45A2E7877884CF /* Pods */,
+				20A3302295C35185E79DC57E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,13 +181,16 @@
 		CE797A571F28E417008B25CB /* Ryboszukacz-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				CE0F6C871F44DAA90039B1E3 /* Extensions */,
+				CE0F6C801F4373F70039B1E3 /* Models */,
+				CE0F6C7F1F4373F00039B1E3 /* ViewControllers */,
+				CE0F6C7E1F4373E90039B1E3 /* Controllers */,
+				CE0F6C7D1F4373E30039B1E3 /* Views */,
 				CE797A581F28E417008B25CB /* AppDelegate.swift */,
-				CE797A5A1F28E417008B25CB /* ViewController.swift */,
 				CE797A5C1F28E417008B25CB /* Main.storyboard */,
 				CE797A621F28E417008B25CB /* Assets.xcassets */,
 				CE797A641F28E417008B25CB /* LaunchScreen.storyboard */,
 				CE797A671F28E417008B25CB /* Info.plist */,
-				CE797A5F1F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodeld */,
 			);
 			path = "Ryboszukacz-Swift";
 			sourceTree = "<group>";
@@ -135,9 +220,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE797A801F28E418008B25CB /* Build configuration list for PBXNativeTarget "Ryboszukacz-Swift" */;
 			buildPhases = (
+				CCC4194EEE4CEDC2A7376D1E /* [CP] Check Pods Manifest.lock */,
 				CE797A511F28E417008B25CB /* Sources */,
 				CE797A521F28E417008B25CB /* Frameworks */,
 				CE797A531F28E417008B25CB /* Resources */,
+				6DBB5258CC41E11309EF4B8E /* [CP] Embed Pods Frameworks */,
+				E221A3CDC17EA870FE6F5BD7 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -260,14 +348,69 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6DBB5258CC41E11309EF4B8E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ryboszukacz-Swift/Pods-Ryboszukacz-Swift-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CCC4194EEE4CEDC2A7376D1E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E221A3CDC17EA870FE6F5BD7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ryboszukacz-Swift/Pods-Ryboszukacz-Swift-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		CE797A511F28E417008B25CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE797A5B1F28E417008B25CB /* ViewController.swift in Sources */,
-				CE797A611F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodeld in Sources */,
+				CE074AAC1F45F61600875BDC /* ViewModel.swift in Sources */,
+				CE0F6C841F437AC50039B1E3 /* Constants.swift in Sources */,
+				CE0F6C821F43744A0039B1E3 /* LicenseViewController.swift in Sources */,
+				CE074AAA1F45F5DC00875BDC /* ObjectWithViewModel.swift in Sources */,
+				CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */,
+				CE0F6C891F44DAD60039B1E3 /* UIToolbarExtension.swift in Sources */,
+				CE797A611F28E417008B25CB /* LowiskaModelNew.xcdatamodeld in Sources */,
 				CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */,
+				CE0F6C861F44BE070039B1E3 /* LowiskaViewController.swift in Sources */,
+				CE074AA81F45F5A800875BDC /* LowiskaViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,10 +562,12 @@
 		};
 		CE797A811F28E418008B25CB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0EA75DFACE9B4591A46448D8 /* Pods-Ryboszukacz-Swift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = QDHH6LE8HP;
 				INFOPLIST_FILE = "Ryboszukacz-Swift/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -432,10 +577,12 @@
 		};
 		CE797A821F28E418008B25CB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FAC715D892EEACA4A3C9E9EF /* Pods-Ryboszukacz-Swift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = QDHH6LE8HP;
 				INFOPLIST_FILE = "Ryboszukacz-Swift/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -520,6 +667,7 @@
 				CE797A821F28E418008B25CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE797A831F28E418008B25CB /* Build configuration list for PBXNativeTarget "Ryboszukacz-SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +676,7 @@
 				CE797A851F28E418008B25CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE797A861F28E418008B25CB /* Build configuration list for PBXNativeTarget "Ryboszukacz-SwiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,17 +685,19 @@
 				CE797A881F28E418008B25CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		CE797A5F1F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodeld */ = {
+		CE797A5F1F28E417008B25CB /* LowiskaModelNew.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				CE797A601F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodel */,
+				CE797A601F28E417008B25CB /* LowiskaModelNew.xcdatamodel */,
 			);
-			currentVersion = CE797A601F28E417008B25CB /* Ryboszukacz_Swift.xcdatamodel */;
-			path = Ryboszukacz_Swift.xcdatamodeld;
+			currentVersion = CE797A601F28E417008B25CB /* LowiskaModelNew.xcdatamodel */;
+			name = LowiskaModelNew.xcdatamodeld;
+			path = ../LowiskaModelNew.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.5.0)
+  - CoreStore (4.0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - CoreStore
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  CoreStore: 07e6cc86894eb80df9ce6fd0e54122df1ccaf531
+
+PODFILE CHECKSUM: d666e9859238de2cc66bcd49a432eaafe72118cd
+
+COCOAPODS: 1.1.1

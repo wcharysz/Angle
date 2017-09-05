@@ -1,26 +1,403 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11134" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina3_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11106"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Menu View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="MenuViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="BYZ-38-t0r" customClass="MenuViewController" customModule="Ryboszukacz_Swift" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="upper_bar" translatesAutoresizingMaskIntoConstraints="NO" id="OJt-di-ACP">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="twt-Vv-SwI"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menu_text" translatesAutoresizingMaskIntoConstraints="NO" id="7AY-4U-oAI">
+                                <rect key="frame" x="0.0" y="30" width="320" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="v5q-nk-Rds"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_1" translatesAutoresizingMaskIntoConstraints="NO" id="TDd-ah-UXP">
+                                <rect key="frame" x="0.0" y="50" width="320" height="430"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="udv-O7-gDy" userLabel="Łowiska">
+                                <rect key="frame" x="25" y="60" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="udv-O7-gDy" secondAttribute="height" multiplier="1:1" id="bAC-bx-BpP"/>
+                                </constraints>
+                                <state key="normal" image="lowiska_ico"/>
+                                <state key="selected" image="lowiska_ico-over"/>
+                                <state key="highlighted" image="lowiska_ico-over"/>
+                                <connections>
+                                    <segue destination="QUK-Dz-EtZ" kind="show" id="At6-fA-8As"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="myV-rp-X7A" userLabel="Dziennik">
+                                <rect key="frame" x="175" y="60" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="myV-rp-X7A" secondAttribute="height" multiplier="1:1" id="oX2-I2-uqM"/>
+                                </constraints>
+                                <state key="normal" image="dziennik_ico"/>
+                                <state key="selected" image="dziennik_ico-over"/>
+                                <state key="highlighted" image="dziennik_ico-over"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OD8-Qp-uzu" userLabel="Kalendarz Brań">
+                                <rect key="frame" x="25" y="187" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="OD8-Qp-uzu" secondAttribute="height" multiplier="1:1" id="eqK-L5-zZS"/>
+                                </constraints>
+                                <state key="normal" image="kalendarz_bran_ico"/>
+                                <state key="selected" image="kalendarz_bran_ico-over"/>
+                                <state key="highlighted" image="kalendarz_bran_ico-over"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eHn-D5-772" userLabel="Moje Łowiska">
+                                <rect key="frame" x="175" y="187" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="eHn-D5-772" secondAttribute="height" multiplier="1:1" id="u9H-Wh-Qqv"/>
+                                </constraints>
+                                <state key="normal" image="moje_lowiska_ico"/>
+                                <state key="selected" image="moje_lowiska_ico-over"/>
+                                <state key="highlighted" image="moje_lowiska_ico-over"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d2P-i4-rfd" userLabel="Atlas Ryb">
+                                <rect key="frame" x="25" y="315" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="d2P-i4-rfd" secondAttribute="height" multiplier="1:1" id="2D4-kU-Fxu"/>
+                                </constraints>
+                                <state key="normal" image="atlas_ryb_ico"/>
+                                <state key="selected" image="atlas_ryb_ico-over"/>
+                                <state key="highlighted" image="atlas_ryb_ico-over"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O4G-MR-Ihe" userLabel="Regulaminy">
+                                <rect key="frame" x="175" y="315" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="O4G-MR-Ihe" secondAttribute="height" multiplier="1:1" id="ip1-a0-n5E"/>
+                                </constraints>
+                                <state key="normal" image="regulaminy_ico"/>
+                                <state key="selected" image="regulaminy_ico-over"/>
+                                <state key="highlighted" image="regulaminy_ico-over"/>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="myV-rp-X7A" firstAttribute="top" secondItem="7AY-4U-oAI" secondAttribute="bottom" constant="10" id="59R-im-Puu"/>
+                            <constraint firstAttribute="bottom" secondItem="TDd-ah-UXP" secondAttribute="bottom" id="8oB-aX-UDq"/>
+                            <constraint firstItem="O4G-MR-Ihe" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="75" id="9Gx-dr-mrr"/>
+                            <constraint firstItem="eHn-D5-772" firstAttribute="leading" secondItem="OD8-Qp-uzu" secondAttribute="trailing" constant="30" id="AbC-cu-F7k"/>
+                            <constraint firstItem="OJt-di-ACP" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="I6D-l8-2zt"/>
+                            <constraint firstItem="TDd-ah-UXP" firstAttribute="top" secondItem="7AY-4U-oAI" secondAttribute="bottom" id="OIs-ac-ZmJ"/>
+                            <constraint firstAttribute="trailing" secondItem="OJt-di-ACP" secondAttribute="trailing" id="PKa-Bl-waN"/>
+                            <constraint firstAttribute="trailing" secondItem="TDd-ah-UXP" secondAttribute="trailing" id="SP6-6s-XFG"/>
+                            <constraint firstItem="d2P-i4-rfd" firstAttribute="top" secondItem="OD8-Qp-uzu" secondAttribute="bottom" constant="8" id="b3g-Zl-gzw"/>
+                            <constraint firstItem="7AY-4U-oAI" firstAttribute="leading" secondItem="OJt-di-ACP" secondAttribute="leading" id="g52-8l-rPn"/>
+                            <constraint firstItem="udv-O7-gDy" firstAttribute="top" secondItem="7AY-4U-oAI" secondAttribute="bottom" constant="10" id="hVr-x7-EUb"/>
+                            <constraint firstItem="7AY-4U-oAI" firstAttribute="trailing" secondItem="OJt-di-ACP" secondAttribute="trailing" id="i48-5q-vPy"/>
+                            <constraint firstItem="eHn-D5-772" firstAttribute="top" secondItem="myV-rp-X7A" secondAttribute="bottom" constant="7" id="j6c-wi-fgW"/>
+                            <constraint firstItem="OD8-Qp-uzu" firstAttribute="top" secondItem="udv-O7-gDy" secondAttribute="bottom" constant="7" id="m7E-a8-IVD"/>
+                            <constraint firstItem="myV-rp-X7A" firstAttribute="leading" secondItem="udv-O7-gDy" secondAttribute="trailing" constant="30" id="nFZ-G4-s7V"/>
+                            <constraint firstItem="O4G-MR-Ihe" firstAttribute="top" secondItem="eHn-D5-772" secondAttribute="bottom" constant="8" id="oLx-Mx-N9O"/>
+                            <constraint firstItem="TDd-ah-UXP" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="ppw-AW-D0A"/>
+                            <constraint firstItem="O4G-MR-Ihe" firstAttribute="leading" secondItem="d2P-i4-rfd" secondAttribute="trailing" constant="30" id="qIe-Df-F3q"/>
+                            <constraint firstItem="eHn-D5-772" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="75" id="xGI-tp-Y5y"/>
+                            <constraint firstItem="7AY-4U-oAI" firstAttribute="bottom" secondItem="OJt-di-ACP" secondAttribute="bottom" id="ygX-73-DgM"/>
+                            <constraint firstItem="OJt-di-ACP" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="zYx-rN-zmf"/>
+                            <constraint firstItem="myV-rp-X7A" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="75" id="zyH-il-s0N"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="35.625" y="37.5"/>
+        </scene>
+        <!--Lowiska View Controller-->
+        <scene sceneID="bOG-Ot-mvw">
+            <objects>
+                <viewController id="QUK-Dz-EtZ" customClass="LowiskaViewController" customModule="Ryboszukacz_Swift" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="xcW-vw-Oaf"/>
+                        <viewControllerLayoutGuide type="bottom" id="Qhs-F7-Jwi"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Y2v-z5-3Bs">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="upper_bar" translatesAutoresizingMaskIntoConstraints="NO" id="K0i-87-4LD">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="2f1-L2-rSY"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="lowiska_text" translatesAutoresizingMaskIntoConstraints="NO" id="Eak-nS-2Z1">
+                                <rect key="frame" x="0.0" y="30" width="320" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="lHg-AA-Hty"/>
+                                </constraints>
+                            </imageView>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Egp-ee-MdI">
+                                <rect key="frame" x="0.0" y="80" width="320" height="356"/>
+                                <connections>
+                                    <outlet property="delegate" destination="QUK-Dz-EtZ" id="XWX-Qf-SWC"/>
+                                </connections>
+                            </mapView>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XsG-fM-OEL">
+                                <rect key="frame" x="0.0" y="436" width="320" height="44"/>
+                                <items>
+                                    <barButtonItem title="Item" id="8UB-HE-W4o"/>
+                                </items>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="bottomBackgroundImage" value="bottom_bar"/>
+                                </userDefinedRuntimeAttributes>
+                            </toolbar>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="d0v-f7-Tdz">
+                                <rect key="frame" x="0.0" y="50" width="320" height="30"/>
+                                <subviews>
+                                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Podaj nazwę łowiska" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Rr3-hf-1Eb">
+                                        <rect key="frame" x="0.0" y="0.0" width="156" height="30"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="30" id="kds-ip-BXo"/>
+                                        </constraints>
+                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                        <connections>
+                                            <outlet property="delegate" destination="QUK-Dz-EtZ" id="o1W-9g-fkH"/>
+                                        </connections>
+                                    </textField>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F3B-4A-XWE">
+                                        <rect key="frame" x="164" y="0.0" width="156" height="30"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="30" id="9No-oX-XeA"/>
+                                        </constraints>
+                                        <state key="normal" title=" cały kraj"/>
+                                        <connections>
+                                            <action selector="tappedDistrict:" destination="QUK-Dz-EtZ" eventType="touchUpInside" id="3rs-Ee-stB"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uBC-kk-5u2" userLabel="Map Button">
+                                <rect key="frame" x="260" y="91" width="50" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="32" id="eLY-Br-4zx"/>
+                                    <constraint firstAttribute="width" constant="50" id="wpg-Ex-IMr"/>
+                                </constraints>
+                                <state key="normal" image="map_button"/>
+                                <connections>
+                                    <action selector="tappedNormalMap:" destination="QUK-Dz-EtZ" eventType="touchUpInside" id="GFD-gO-p8p"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WaD-64-mZp" userLabel="Sat Button">
+                                <rect key="frame" x="260" y="130" width="50" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="BRG-dn-qdJ"/>
+                                    <constraint firstAttribute="height" constant="32" id="Pcj-RV-C2M"/>
+                                </constraints>
+                                <state key="normal" image="sat_button"/>
+                                <connections>
+                                    <action selector="tappedSateliteMap:" destination="QUK-Dz-EtZ" eventType="touchUpInside" id="ik7-pS-6vt"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Oi-p6-Qn5" userLabel="Refresh Button">
+                                <rect key="frame" x="260" y="378" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="5Oi-p6-Qn5" secondAttribute="height" multiplier="1:1" id="Gg6-gd-8A0"/>
+                                    <constraint firstAttribute="height" constant="50" id="fWK-a6-wRz"/>
+                                </constraints>
+                                <state key="normal" image="refresh_button"/>
+                                <state key="selected" image="refresh_button-over"/>
+                                <state key="highlighted" image="refresh_button-over"/>
+                                <connections>
+                                    <action selector="tappedRefresh:" destination="QUK-Dz-EtZ" eventType="touchUpInside" id="7fZ-wj-K55"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PNx-xv-hCX" userLabel="Brania Button">
+                                <rect key="frame" x="10" y="383" width="70" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="DhJ-Qp-trO"/>
+                                    <constraint firstAttribute="width" constant="70" id="PTn-91-ytC"/>
+                                </constraints>
+                                <state key="normal" image="brania_button"/>
+                                <connections>
+                                    <action selector="tappedBrania:" destination="QUK-Dz-EtZ" eventType="touchUpInside" id="R5O-SG-2EI"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="PNx-xv-hCX" firstAttribute="leading" secondItem="Egp-ee-MdI" secondAttribute="leading" constant="10" id="0Sa-3c-zdo"/>
+                            <constraint firstItem="d0v-f7-Tdz" firstAttribute="top" secondItem="Eak-nS-2Z1" secondAttribute="bottom" id="0oK-Pu-B3H"/>
+                            <constraint firstAttribute="trailing" secondItem="5Oi-p6-Qn5" secondAttribute="trailing" constant="10" id="2Qz-QR-aap"/>
+                            <constraint firstItem="Egp-ee-MdI" firstAttribute="leading" secondItem="Y2v-z5-3Bs" secondAttribute="leading" id="3RL-Bw-vX8"/>
+                            <constraint firstItem="XsG-fM-OEL" firstAttribute="top" secondItem="PNx-xv-hCX" secondAttribute="bottom" constant="13" id="5GQ-C6-xlI"/>
+                            <constraint firstItem="WaD-64-mZp" firstAttribute="top" secondItem="uBC-kk-5u2" secondAttribute="bottom" constant="7" id="5P4-ij-klP"/>
+                            <constraint firstAttribute="trailing" secondItem="K0i-87-4LD" secondAttribute="trailing" id="7rv-wB-bIa"/>
+                            <constraint firstItem="XsG-fM-OEL" firstAttribute="top" secondItem="Egp-ee-MdI" secondAttribute="bottom" id="8jg-h9-zlr"/>
+                            <constraint firstAttribute="trailing" secondItem="XsG-fM-OEL" secondAttribute="trailing" id="B0t-N6-12M"/>
+                            <constraint firstItem="Eak-nS-2Z1" firstAttribute="leading" secondItem="Y2v-z5-3Bs" secondAttribute="leading" id="JsI-Id-pxh"/>
+                            <constraint firstItem="Egp-ee-MdI" firstAttribute="top" secondItem="d0v-f7-Tdz" secondAttribute="bottom" id="MRg-6O-XXM"/>
+                            <constraint firstAttribute="bottom" secondItem="XsG-fM-OEL" secondAttribute="bottom" id="OJS-bR-OWE"/>
+                            <constraint firstItem="XsG-fM-OEL" firstAttribute="leading" secondItem="Y2v-z5-3Bs" secondAttribute="leading" id="Pav-OP-dIm"/>
+                            <constraint firstAttribute="trailing" secondItem="d0v-f7-Tdz" secondAttribute="trailing" id="TfL-RN-5Ne"/>
+                            <constraint firstItem="WaD-64-mZp" firstAttribute="leading" secondItem="uBC-kk-5u2" secondAttribute="leading" id="Z09-xN-oej"/>
+                            <constraint firstItem="K0i-87-4LD" firstAttribute="top" secondItem="Y2v-z5-3Bs" secondAttribute="top" id="gAo-un-h8d"/>
+                            <constraint firstAttribute="trailing" secondItem="Egp-ee-MdI" secondAttribute="trailing" id="ibk-Re-Qop"/>
+                            <constraint firstItem="d0v-f7-Tdz" firstAttribute="leading" secondItem="Y2v-z5-3Bs" secondAttribute="leading" id="kbu-XD-8Nx"/>
+                            <constraint firstAttribute="trailing" secondItem="uBC-kk-5u2" secondAttribute="trailing" constant="10" id="nyT-OZ-dMs"/>
+                            <constraint firstItem="K0i-87-4LD" firstAttribute="leading" secondItem="Y2v-z5-3Bs" secondAttribute="leading" id="t5b-Zl-Unl"/>
+                            <constraint firstItem="uBC-kk-5u2" firstAttribute="top" secondItem="d0v-f7-Tdz" secondAttribute="bottom" constant="11" id="uKg-DL-VvA"/>
+                            <constraint firstItem="Eak-nS-2Z1" firstAttribute="bottom" secondItem="K0i-87-4LD" secondAttribute="bottom" id="uPc-7U-lKY"/>
+                            <constraint firstItem="XsG-fM-OEL" firstAttribute="top" secondItem="5Oi-p6-Qn5" secondAttribute="bottom" constant="8" id="uQg-VJ-QnU"/>
+                            <constraint firstItem="WaD-64-mZp" firstAttribute="trailing" secondItem="uBC-kk-5u2" secondAttribute="trailing" id="yV6-Rd-3wP"/>
+                            <constraint firstAttribute="trailing" secondItem="Eak-nS-2Z1" secondAttribute="trailing" id="zIN-DB-NwW"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="districtButton" destination="F3B-4A-XWE" id="pEk-Nc-eTs"/>
+                        <outlet property="mapView" destination="Egp-ee-MdI" id="b3V-Rx-wEl"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="m00-QN-qhy" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="892.5" y="37.5"/>
+        </scene>
+        <!--License View Controller-->
+        <scene sceneID="fsf-gy-vSR">
+            <objects>
+                <viewController storyboardIdentifier="LicenseViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="9Lr-5E-7Zd" customClass="LicenseViewController" customModule="Ryboszukacz_Swift" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="FYA-G1-zGj"/>
+                        <viewControllerLayoutGuide type="bottom" id="pph-uF-lb2"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="2FQ-8N-XjO">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Akceptacja warunków użytkowania aplikacji" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JQQ-3z-rsr">
+                                <rect key="frame" x="15.5" y="0.0" width="289" height="103"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="103" id="dYH-so-k7r"/>
+                                    <constraint firstAttribute="width" constant="289" id="vPb-Gk-2sb"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wyP-n7-7ZZ">
+                                <rect key="frame" x="135" y="422" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="wyP-n7-7ZZ" secondAttribute="height" multiplier="1:1" id="QYU-uG-ATj"/>
+                                    <constraint firstAttribute="height" constant="50" id="pAK-R1-5Jp"/>
+                                </constraints>
+                                <state key="normal" image="ok_button"/>
+                                <state key="selected" image="ok_button_over"/>
+                                <state key="highlighted" image="ok_button_over"/>
+                                <connections>
+                                    <action selector="tappedOK:" destination="9Lr-5E-7Zd" eventType="touchUpInside" id="Vev-EO-G5e"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TDA-RI-6Ht">
+                                <rect key="frame" x="0.0" y="111" width="320" height="303"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                <string key="text">1. Zasady użytkowania
+
+Korzystanie z Aplikacji przez Użytkownika obwarowane jest następującymi warunkami:
+
+a) Użytkownik ma obowiązek przestrzegać zasad użytkowania Aplikacji określonych w Ogólnych Warunkach sklepu App Store. Zasady te zamieszczone są na witrynie http://www.apple.com/legal/itunes/us/terms.html
+
+b) W zakresie, w jakim przepisy prawa jednoznacznie tego nie dopuszczają, Użytkownik zobowiązuje się:
+ 
+- nie dokonywać dekompilacji Aplikacji, nie „odtwarzać kodu źródłowego”; 
+- nie reprodukować i/lub tłumaczyć kodu kreskowego Aplikacji; 
+- nie powielać informacji udostępnianych przez Aplikację w sposób naruszający warunki licencyjne;
+- nie kopiować, rozpowszechniać czy udzielać licencji na Aplikację lub tworzyć dzieł pochodnych od Aplikacji.
+
+c) Użytkownik zobowiązuje się nie korzystać z Aplikacji w sposób sprzeczny z obowiązującym prawem. Ponadto Użytkownik przyjmuje do wiadomości, że twórca w żadnym zakresie nie ponosi odpowiedzialności za ewentualne wykorzystanie Aplikacji przez Użytkownika z naruszeniem prawa.
+
+
+2. Prawa własności intelektualnej
+
+Użytkownik niniejszym oświadcza i przyjmuje do wiadomości, że Aplikacja zostanie udostępniona Użytkownikowi wyłącznie na warunkach nieprzenoszalnej, ograniczonej licencji na korzystanie z Aplikacji w zakresie dopuszczonym przez prawo wyłącznie dla celów prywatnych i niekomercyjnych, na jakimkolwiek urządzeniu wyposażonym w system iOS w wersji 5.0 (lub nowszej), znajdującym się w posiadaniu Użytkownika.
+
+Wszelkie rysunki, teksty, zdjęcia, opracowania, bazy danych wyświetlane lub odtwarzane przez Aplikację stanowią własność ich autorów bądź poszczególnych licencjobiorców / licencjodawców. Ich reprodukowanie bądź udostępnianie innym osobom jest dopuszczalne wyłącznie za uprzednią pisemną zgodą twórcy lub odpowiedniego licencjobiorcy.
+
+Zdjęcie Dorset_sherborne_castle_lake.jpg z  Wikimedia Commons jest na licencji  GNU Free Documentation License.
+
+3. Odpowiedzialność
+
+Pomimo faktu, że twórca podejmuje wszelkie możliwe działania, aby Aplikacja jak i oferowane w niej materiały były wolne od błędów, Użytkownik przyjmuje do wiadomości, że wszystkie oferowane materiały udostępnia się w takim stanie „w jakim są”. Użytkownik korzysta zatem z Aplikacji i materiałów wyłącznie na własne ryzyko.
+Twórca czyni wszelkie możliwe starania w celu zagwarantowania, że oferowane informacje są kompletne, prawidłowe, dokładne i aktualne. Jednakże pomimo podejmowanych starań, mogą się pojawić nieścisłości. W razie nieścisłości udostępnionych informacji bądź w razie braku pewnych danych, twórca nie ponosi za nie odpowiedzialności.
+
+Opracowując niniejszą Aplikację twórcy kierowali się zasadą maksymalnej uniwersalności, tak aby Aplikacja mogła działać na każdym urządzeniu z systemem iOS. Twórca nie będzie jednak ponosić żadnej odpowiedzialności w razie niefunkcjonowania Aplikacji na konkretnym urządzeniu z systemem iOS znajdującym się w posiadaniu Użytkownika. Twórca dokłada wszelkich możliwych starań, aby ochronić Aplikację wszelkimi uzasadnionymi środkami bezpieczeństwa oraz zminimalizować ewentualne zakłócenia powstałe w wyniku usterek technicznych. Jako że żadne oprogramowanie nie jest wolne od błędów, twórca nie jest w stanie wykluczyć sytuacji, w której wystąpią usterki lub defekty techniczne bądź pojawią się skażone materiały (np. wirusy komputerowe, robaki, konie trojańskie, bomby logiczne itd.). W konsekwencji twórca nie jest w stanie zagwarantować, że dostęp do Aplikacji jak i korzystanie z niej nie zostaną zakłócone lub przerwane jeszcze w inny sposób przez ww. czynniki. Twórca nie zobowiązuje się do zapewniania dalszych usług konserwacji i wsparcia technicznego w odniesieniu do Aplikacji.
+
+Użytkownik wyraża zgodę i przyjmuje do wiadomości, że twórcy oraz zewnętrzni dostawcy zawartości nie ponoszą odpowiedzialności za jakiekolwiek szkody bezpośrednie, pośrednie, przypadkowe, szczególne, wynikowe, domniemane i inne, które mogły powstać bądź powstały w związku z korzystaniem lub niemożnością korzystania z Aplikacji oraz wszelkich innych stron Internetowych, do których prowadzą odnośniki umieszczone w  niniejszej Aplikacji.
+
+Przechodząc dalej akceptujesz powyższe  warunki użytkowania aplikacji.</string>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="wyP-n7-7ZZ" firstAttribute="centerX" secondItem="2FQ-8N-XjO" secondAttribute="centerX" id="3gq-uL-YRK"/>
+                            <constraint firstItem="JQQ-3z-rsr" firstAttribute="top" secondItem="2FQ-8N-XjO" secondAttribute="top" id="BDN-fe-Zud"/>
+                            <constraint firstItem="JQQ-3z-rsr" firstAttribute="centerX" secondItem="2FQ-8N-XjO" secondAttribute="centerX" id="Fxk-I0-3ir"/>
+                            <constraint firstItem="wyP-n7-7ZZ" firstAttribute="top" secondItem="TDA-RI-6Ht" secondAttribute="bottom" constant="8" id="JQj-G7-fBT"/>
+                            <constraint firstItem="TDA-RI-6Ht" firstAttribute="top" secondItem="JQQ-3z-rsr" secondAttribute="bottom" constant="8" id="TZo-xI-BQ6"/>
+                            <constraint firstAttribute="bottom" secondItem="wyP-n7-7ZZ" secondAttribute="bottom" constant="8" id="Tin-ye-ESG"/>
+                            <constraint firstItem="TDA-RI-6Ht" firstAttribute="leading" secondItem="2FQ-8N-XjO" secondAttribute="leading" id="jEG-Ua-QYm"/>
+                            <constraint firstItem="JQQ-3z-rsr" firstAttribute="top" secondItem="2FQ-8N-XjO" secondAttribute="top" id="tZg-3h-p7v"/>
+                            <constraint firstAttribute="trailing" secondItem="TDA-RI-6Ht" secondAttribute="trailing" id="vzf-8G-Cc3"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="u4D-fG-XeL" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="151.19999999999999" y="843.32833583208401"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="atlas_ryb_ico" width="120" height="120"/>
+        <image name="atlas_ryb_ico-over" width="120" height="120"/>
+        <image name="background_1" width="320" height="395"/>
+        <image name="bottom_bar" width="320" height="35"/>
+        <image name="brania_button" width="60" height="22"/>
+        <image name="dziennik_ico" width="120" height="120"/>
+        <image name="dziennik_ico-over" width="120" height="120"/>
+        <image name="kalendarz_bran_ico" width="120" height="120"/>
+        <image name="kalendarz_bran_ico-over" width="120" height="120"/>
+        <image name="lowiska_ico" width="120" height="120"/>
+        <image name="lowiska_ico-over" width="120" height="120"/>
+        <image name="lowiska_text" width="320" height="16"/>
+        <image name="map_button" width="50" height="32"/>
+        <image name="menu_text" width="320" height="16"/>
+        <image name="moje_lowiska_ico" width="120" height="120"/>
+        <image name="moje_lowiska_ico-over" width="120" height="120"/>
+        <image name="ok_button" width="50" height="50"/>
+        <image name="ok_button_over" width="50" height="50"/>
+        <image name="refresh_button" width="50" height="50"/>
+        <image name="refresh_button-over" width="50" height="50"/>
+        <image name="regulaminy_ico" width="120" height="120"/>
+        <image name="regulaminy_ico-over" width="120" height="120"/>
+        <image name="sat_button" width="50" height="32"/>
+        <image name="upper_bar" width="320" height="50"/>
+    </resources>
 </document>

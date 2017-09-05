@@ -1,0 +1,31 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "lowiska_ico_over.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "lowiska_ico_over@2x.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "lowiska_ico_over-ipad.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
