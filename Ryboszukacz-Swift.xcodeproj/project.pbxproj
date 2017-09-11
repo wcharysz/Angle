@@ -15,6 +15,7 @@
 		CE0F6C841F437AC50039B1E3 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C831F437AC50039B1E3 /* Constants.swift */; };
 		CE0F6C861F44BE070039B1E3 /* LowiskaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */; };
 		CE0F6C891F44DAD60039B1E3 /* UIToolbarExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */; };
+		CE384B911F6716BA006D9F14 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE384B901F6716BA006D9F14 /* Networking.swift */; };
 		CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A581F28E417008B25CB /* AppDelegate.swift */; };
 		CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5A1F28E417008B25CB /* MenuViewController.swift */; };
 		CE797A5E1F28E417008B25CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE797A5C1F28E417008B25CB /* Main.storyboard */; };
@@ -52,6 +53,7 @@
 		CE0F6C831F437AC50039B1E3 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LowiskaViewController.swift; sourceTree = "<group>"; };
 		CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIToolbarExtension.swift; sourceTree = "<group>"; };
+		CE384B901F6716BA006D9F14 /* Networking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
 		CE797A551F28E417008B25CB /* Ryboszukacz-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ryboszukacz-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE797A581F28E417008B25CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE797A5A1F28E417008B25CB /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MenuViewController.swift; path = ../MenuViewController.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 		CE0F6C7E1F4373E90039B1E3 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				CE384B901F6716BA006D9F14 /* Networking.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -402,6 +405,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE074AAC1F45F61600875BDC /* ViewModel.swift in Sources */,
+				CE384B911F6716BA006D9F14 /* Networking.swift in Sources */,
 				CE0F6C841F437AC50039B1E3 /* Constants.swift in Sources */,
 				CE0F6C821F43744A0039B1E3 /* LicenseViewController.swift in Sources */,
 				CE074AAA1F45F5DC00875BDC /* ObjectWithViewModel.swift in Sources */,

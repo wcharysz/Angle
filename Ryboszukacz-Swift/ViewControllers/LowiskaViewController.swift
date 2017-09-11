@@ -26,6 +26,12 @@ class LowiskaViewController: UIViewController, UITextFieldDelegate, MKMapViewDel
 
         // Do any additional setup after loading the view.
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        let api = Networking()
+        api.downloadLowiska()
+    }
 
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)

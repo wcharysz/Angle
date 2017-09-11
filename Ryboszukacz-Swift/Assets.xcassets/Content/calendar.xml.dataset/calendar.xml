@@ -1,0 +1,2922 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+
+	<Styczen_2014>
+		<day_1>
+		<day_name>Środa</day_name>
+		<day_date>01.01.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Czwartek</day_name>
+		<day_date>02.01.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Piątek</day_name>
+		<day_date>03.01.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Sobota</day_name>
+		<day_date>04.01.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Niedziela</day_name>
+		<day_date>05.01.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Poniedziałek</day_name>
+		<day_date>06.01.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Wtorek</day_name>
+		<day_date>07.01.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań:  Siei, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Środa</day_name>
+		<day_date>08.01.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Czwartek</day_name>
+		<day_date>09.01.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Piątek</day_name>
+		<day_date>10.01.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Sobota</day_name>
+		<day_date>11.01.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Niedziela</day_name>
+		<day_date>12.01.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Poniedziałek</day_name>
+		<day_date>13.01.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Wtorek</day_name>
+		<day_date>14.01.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Środa</day_name>
+		<day_date>15.01.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Czwartek</day_name>
+		<day_date>16.01.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Piątek</day_name>
+		<day_date>17.01.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Sobota</day_name>
+		<day_date>18.01.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Niedziela</day_name>
+		<day_date>19.01.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Poniedziałek</day_name>
+		<day_date>20.01.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Wtorek</day_name>
+		<day_date>21.01.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Środa</day_name>
+		<day_date>22.01.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Czwartek</day_name>
+		<day_date>23.01.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Uklei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Piątek</day_name>
+		<day_date>24.01.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Sobota</day_name>
+		<day_date>25.01.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Niedziela</day_name>
+		<day_date>26.01.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Poniedziałek</day_name>
+		<day_date>27.01.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Wtorek</day_name>
+		<day_date>28.01.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Klenia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Środa</day_name>
+		<day_date>29.01.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+			<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Czwartek</day_name>
+		<day_date>30.01.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Siei, Uklei, Klenia, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_30>
+	<day_31>
+		<day_name>Piątek</day_name>
+		<day_date>31.01.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Siei, Uklei, Sielawy.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga, Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_31>    
+	</Styczen_2014>
+	<Luty_2014>
+	<day_1>
+		<day_name>Sobota</day_name>
+		<day_date>01.02.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Niedziela</day_name>
+		<day_date>02.02.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Uklei, Sielawy, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Poniedziałek</day_name>
+		<day_date>03.02.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Uklei, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Wtorek</day_name>
+		<day_date>04.02.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Uklei, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Środa</day_name>
+		<day_date>05.02.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Sielawy, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Czwartek</day_name>
+		<day_date>06.02.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Uklei, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Piątek</day_name>
+		<day_date>07.02.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Sielawy, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Sobota</day_name>
+		<day_date>08.02.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Niedziela</day_name>
+		<day_date>09.02.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Poniedziałek</day_name>
+		<day_date>10.02.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Uklei, Sielawy, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Wtorek</day_name>
+		<day_date>11.02.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Środa</day_name>
+		<day_date>12.02.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Uklei, Sielawy, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Czwartek</day_name>
+		<day_date>13.02.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Piątek</day_name>
+		<day_date>14.02.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Uklei, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Sobota</day_name>
+		<day_date>15.02.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Niedziela</day_name>
+		<day_date>16.02.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Uklei, Sielawy, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Poniedziałek</day_name>
+		<day_date>17.02.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Uklei, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Wtorek</day_name>
+		<day_date>18.02.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Środa</day_name>
+		<day_date>19.02.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Uklei, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Czwartek</day_name>
+		<day_date>20.02.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Uklei, Sielawy, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Piątek</day_name>
+		<day_date>21.02.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Sielawy, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Sobota</day_name>
+		<day_date>22.02.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Sielawy, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Niedziela</day_name>
+		<day_date>23.02.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Uklei, Sielawy, Okonia, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Poniedziałek</day_name>
+		<day_date>24.02.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Okonia, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Wtorek</day_name>
+		<day_date>25.02.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Uklei, Sielawy, Okonia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Środa</day_name>
+		<day_date>26.02.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Okonia, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Czwartek</day_name>
+		<day_date>27.02.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Uklei, Sielawy, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Piątek</day_name>
+		<day_date>28.02.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Certy, Suma, Miętusa, Szczupaka, Brzany, Troci, Świnki.</day_comment_2>
+	</day_28>
+	</Luty_2014>
+	<Marzec_2014>
+	<day_1>
+		<day_name>Sobota</day_name>
+		<day_date>01.03.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Klenia, Leszcza, Krąpia, Okonia, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Niedziela</day_name>
+		<day_date>02.03.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Poniedziałek</day_name>
+		<day_date>03.03.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Okonia, Pstrąga, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Wtorek</day_name>
+		<day_date>04.03.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Okonia, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Środa</day_name>
+		<day_date>05.03.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Klenia, Okonia, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Czwartek</day_name>
+		<day_date>06.03.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Piątek</day_name>
+		<day_date>07.03.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Pstrąga, Leszcza, Okonia, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Sobota</day_name>
+		<day_date>08.03.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Okonia, Pstrąga, Miętusa, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Niedziela</day_name>
+		<day_date>09.03.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Poniedziałek</day_name>
+		<day_date>10.03.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Pstrąga, Krąpia, Okonia, Miętusa.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Wtorek</day_name>
+		<day_date>11.03.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Środa</day_name>
+		<day_date>12.03.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Krąpia,, Pstrąga, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Czwartek</day_name>
+		<day_date>13.03.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Klenia, Leszcza, Krąpia, Okonia, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Piątek</day_name>
+		<day_date>14.03.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Sobota</day_name>
+		<day_date>15.03.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Pstrąga, Leszcza, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Niedziela</day_name>
+		<day_date>16.03.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Leszcza, Krąpia, Okonia, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Poniedziałek</day_name>
+		<day_date>17.03.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Krąpia, Pstrąga, Okonia, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Wtorek</day_name>
+		<day_date>18.03.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Środa</day_name>
+		<day_date>19.03.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Okonia, Miętusa, Pstrąga, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Czwartek</day_name>
+		<day_date>20.03.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Krąpia, Okonia, Miętusa, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Piątek</day_name>
+		<day_date>21.03.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Krąpia, Pstrąga, Okonia, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Sobota</day_name>
+		<day_date>22.03.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Krąpia, Okonia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Niedziela</day_name>
+		<day_date>23.03.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Klenia, Okonia, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Poniedziałek</day_name>
+		<day_date>24.03.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Okonia, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Wtorek</day_name>
+		<day_date>25.03.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Krąpia, Okonia, Pstrąga, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Środa</day_name>
+		<day_date>26.03.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Miętusa, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Czwartek</day_name>
+		<day_date>27.03.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Klenia, Leszcza, Krąpia, Okonia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Piątek</day_name>
+		<day_date>28.03.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Leszcza, Okonia, Miętusa, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Sobota</day_name>
+		<day_date>29.03.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Klenia, Krąpia, Okonia, Jazia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_date>30.03.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Leszcza, Krąpia, Okonia, Miętusa, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Troci, Łososia, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_30>
+	<day_31>
+		<day_name>Poniedziałek</day_name>
+		<day_date>31.03.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Klenia, Okonia, Miętusa, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Lipienia, Bolenia, Certy, Suma, Szczupaka, Brzany, Świnki, Głowacicy.</day_comment_2>
+	</day_31>   
+	</Marzec_2014>
+	<Kwiecien_2014>
+	<day_1>
+		<day_name>Wtorek</day_name>
+		<day_date>01.04.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Karpia, Płoci, Amura, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Środa</day_name>
+		<day_date>02.04.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Czwartek</day_name>
+		<day_date>03.04.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Płoci, Amura, Jazia, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Piątek</day_name>
+		<day_date>04.04.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Łososia, Troci.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Sobota</day_name>
+		<day_date>05.04.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Karpia, Płoci, Amura.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Łososia, Troci.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Niedziela</day_name>
+		<day_date>06.04.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań:  Płoci, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Łososia, Troci.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Poniedziałek</day_name>
+		<day_date>07.04.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Lina Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Wtorek</day_name>
+		<day_date>08.04.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Płoci, Amura, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Środa</day_name>
+		<day_date>09.04.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Karpia, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Czwartek</day_name>
+		<day_date>10.04.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dostateczne dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Amura, Jazia, Lina, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Piątek</day_name>
+		<day_date>11.04.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Płoci, Amura.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Sobota</day_name>
+		<day_date>12.04.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Karpia, Płoci, Amura, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Niedziela</day_name>
+		<day_date>13.04.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Amura, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Poniedziałek</day_name>
+		<day_date>14.04.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Lina, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Wtorek</day_name>
+		<day_date>15.04.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Amura, Jazia, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Środa</day_name>
+		<day_date>16.04.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Amura, Jazia, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Czwartek</day_name>
+		<day_date>17.04.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Jazia, Jelca, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Piątek</day_name>
+		<day_date>18.04.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Płoci, Amura, Jazia, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Łososia.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Sobota</day_name>
+		<day_date>19.04.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Karpia, Amura, Jazia, Lina.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Łososia.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Niedziela</day_name>
+		<day_date>20.04.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Płoci, Amura, Jazia, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Łososia.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Poniedziałek</day_name>
+		<day_date>21.04.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Lina, Jelca, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Wtorek</day_name>
+		<day_date>22.04.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Środa</day_name>
+		<day_date>23.04.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Jazia, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Czwartek</day_name>
+		<day_date>24.04.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Piątek</day_name>
+		<day_date>25.04.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Jazia, Jelca, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Leszcza.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Sobota</day_name>
+		<day_date>26.04.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Amura, Jazia, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Niedziela</day_name>
+		<day_date>27.04.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Pstrąga, Karpia, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Łososia.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Poniedziałek</day_name>
+		<day_date>28.04.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Amura, Jazia.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Wtorek</day_name>
+		<day_date>29.04.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Płoci, Amura, Lina, Pstrąga.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Środa</day_name>
+		<day_date>30.04.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+		<day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Płoci, Lina, Jelca.</day_comment_1>
+		<day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Bolenia, Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_30>
+	</Kwiecien_2014>
+	<Maj_2014>
+	    <day_1>
+		<day_name>Czwartek</day_name>
+		<day_date>01.05.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Bolenia, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Piątek</day_name>
+		<day_date>02.05.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Jazia, Bolenia, Karpia, Karasia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Sobota</day_name>
+		<day_date>03.05.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Belony, Jazia, Bolenia, Karpia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Niedziela</day_name>
+		<day_date>04.05.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Belony, Jazia, Bolenia, Karpia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Łososia.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Poniedziałek</day_name>
+		<day_date>05.05.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Jazia, Bolenia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Wtorek</day_name>
+		<day_date>06.05.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Środa</day_name>
+		<day_date>07.05.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Belony, Jazia, Bolenia, Karpia, Karasia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Czwartek</day_name>
+		<day_date>08.05.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Bolenia, Karpia, Karasia, Lina, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_8>
+	<day_9>
+		<month_name>Maj</month_name>
+		<day_name>Piątek</day_name>
+		<day_date>09.05.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Belony, Jazia, Bolenia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Troci, Łososia.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Sobota</day_name>
+		<day_date>10.05.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Jazia, Bolenia, Karpia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza, Łososia, Troci.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Niedziela</day_name>
+		<day_date>11.05.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Bolenia, Karpia, Karasia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza Troci, Łososia.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Poniedziałek</day_name>
+		<day_date>12.05.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Jazia, Bolenia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Wtorek</day_name>
+		<day_date>13.05.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Jazia, Karpia, Lina, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Środa</day_name>
+		<day_date>14.05.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Bolenia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Czwartek</day_name>
+		<day_date>15.05.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Świnki, Leszcza.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Piątek</day_name>
+		<day_date>16.05.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Sobota</day_name>
+		<day_date>17.05.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Jazia, Bolenia, Karpia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Niedziela</day_name>
+		<day_date>18.05.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Bolenia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Poniedziałek</day_name>
+		<day_date>19.05.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Belony, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Wtorek</day_name>
+		<day_date>20.05.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Jazia, Bolenia, Karpia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Środa</day_name>
+		<day_date>21.05.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Bolenia, Karpia, Karasia, Lina, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Czwartek</day_name>
+		<day_date>22.05.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Belony, Jazia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Piątek</day_name>
+		<day_date>23.05.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Sobota</day_name>
+		<day_date>24.05.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Belony, Jazia, Bolenia, Karpia, Karasia, Lina.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Niedziela</day_name>
+		<day_date>25.05.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Poniedziałek</day_name>
+		<day_date>26.05.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Bolenia, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Wtorek</day_name>
+		<day_date>27.05.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Jazia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Środa</day_name>
+		<day_date>28.05.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Czwartek</day_name>
+		<day_date>29.05.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Jazia, Bolenia, Karpia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Leszcza.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Piątek</day_name>
+		<day_date>30.05.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Belony, Jazia, Bolenia, Karpia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_30>
+	<day_31>
+		<day_name>Sobota</day_name>
+		<day_date>31.05.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Tolpygi, Amura, Belony, Jazia, Bolenia, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Głowacicy, Lipienia, Sandacza, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_31>
+	</Maj_2014>
+	<Czerwiec_2014>
+	<day_1>
+		<day_name>Niedziela</day_name>
+		<day_date>01.06.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Belony, Jazia, Głowacicy, Świnki, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Poniedziałek</day_name>
+		<day_date>02.06.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Belony, Jazia, Głowacicy, Świnki, Karpia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Wtorek</day_name>
+		<day_date>03.06.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Głowacicy, Świnki, Karpia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Środa</day_name>
+		<day_date>04.06.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Karasia, Lina, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Czwartek</day_name>
+		<day_date>05.06.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Jazia, Karpia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Piątek</day_name>
+		<day_date>06.06.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Głowacicy, Karpia, Karasia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Troci, Łososia, Suma, Leszcza.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Sobota</day_name>
+		<day_date>07.06.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Belony, Jazia, Świnki, Karpia, Karasia, Lina.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Niedziela</day_name>
+		<day_date>08.06.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Jazia, Głowacicy, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Poniedziałek</day_name>
+		<day_date>09.06.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Świnki, Karpia, Karasia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Wtorek</day_name>
+		<day_date>10.06.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Jazia, Głowacicy, Świnki, Karasia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Środa</day_name>
+		<day_date>11.06.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Belony, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Czwartek</day_name>
+		<day_date>12.06.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Jazia, Głowacicy, Świnki, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Piątek</day_name>
+		<day_date>13.06.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Jazia, Głowacicy, Świnki, Karpia, Karasia, Lina.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Sobota</day_name>
+		<day_date>14.06.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Jazia, Karpia, Karasia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Niedziela</day_name>
+		<day_date>15.06.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Belony, Jazia, Głowacicy, Świnki, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza, Węgorza.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Poniedziałek</day_name>
+		<day_date>16.06.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Głowacicy, Świnki, Karpia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza, Węgorza.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Wtorek</day_name>
+		<day_date>17.06.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań:, Belony, Jazia, Głowacicy, Świnki, Karpia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza, Węgorza.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Środa</day_name>
+		<day_date>18.06.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Jazia, Głowacicy, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza, Węgorza.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Czwartek</day_name>
+		<day_date>19.06.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Belony, Świnki, Karpia, Karasia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Leszcza, Węgorza.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Piątek</day_name>
+		<day_date>20.06.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Jazia, Głowacicy, Świnki, Karpia, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Węgorza.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Sobota</day_name>
+		<day_date>21.06.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Belony, Świnki, Karasia, Lina, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Węgorza.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Niedziela</day_name>
+		<day_date>22.06.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Jazia, Głowacicy, Świnki, Karpia, Lina, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Węgorza.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Poniedziałek</day_name>
+		<day_date>23.06.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Jazia, Głowacicy, Świnki, Karpia, Karasia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Węgorza.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Wtorek</day_name>
+		<day_date>24.06.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Belony, Głowacicy, Karpia, Lina, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Węgorza.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Środa</day_name>
+		<day_date>25.06.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Jazia, Głowacicy, Świnki, Karpia, Karasia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Węgorza.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Czwartek</day_name>
+		<day_date>26.06.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Belony, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma Węgorza.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Piątek</day_name>
+		<day_date>27.06.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Jazia, Głowacicy, Świnki, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza, Węgorza.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Sobota</day_name>
+		<day_date>28.06.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Amura, Belony, Jazia, Głowacicy, Świnki, Karpia, Karasia, Lina, Okonia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza, Węgorza.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Niedziela</day_name>
+		<day_date>29.06.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Głowacicy, Świnki, Karpia, Karasia, Lina.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza, Węgorza.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Poniedziałek</day_name>
+		<day_date>30.06.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Jazia, Głowacicy, Świnki, Karpia, Karasia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Brzany, Certy, Lipienia, Suma, Łososia, Troci, Leszcza, Węgorza.</day_comment_2>
+	</day_30>
+	</Czerwiec_2014>
+	<Lipiec_2014>
+		<day_1>
+		<day_name>Wtorek</day_name>
+		<day_date>01.07.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Certy, Brzany, Suma, Świnki, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Środa</day_name>
+		<day_date>02.07.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Certy, Brzany, Świnki, Tołpygi, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Czwartek</day_name>
+		<day_date>03.07.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Bolenia, Brzany, Suma, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+    </day_3>
+	<day_4>
+		<day_name>Piątek</day_name>
+		<day_date>04.07.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Bolenia, Certy, Brzany, Suma, Świnki, Tołpygi, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Węgorza.</day_comment_2>
+
+	</day_4>
+	<day_5>
+		<day_name>Sobota</day_name>
+		<day_date>05.07.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Bolenia, Certy, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Węgorza.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Niedziela</day_name>
+		<day_date>06.07.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Brzany, Suma, Świnki, Tołpygi, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Węgorza.</day_comment_2>
+    </day_6>
+	<day_7>
+		<day_name>Poniedziałek</day_name>
+		<day_date>07.07.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Wtorek</day_name>
+		<day_date>08.07.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Brzany, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Środa</day_name>
+		<day_date>09.07.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Bolenia, Certy, Brzany, Suma, Leszcza, Klenia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Czwartek</day_name>
+		<day_date>10.07.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Brzany, Suma, Świnki, Tołpygi, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+
+	</day_10>
+	<day_11>
+		<day_name>Piątek</day_name>
+		<day_date>11.07.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Bolenia, Certy, Suma, Tołpygi, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Węgorza.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Sobota</day_name>
+		<day_date>12.07.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Amura, Brzany, Suma, Świnki, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Węgorza.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Niedziela</day_name>
+		<day_date>13.07.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Bolenia, Certy, Świnki, Tołpygi, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Węgorza.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Poniedziałek</day_name>
+		<day_date>14.07.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Bolenia, Certy, Brzany, Suma, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Wtorek</day_name>
+		<day_date>15.07.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Bolenia, Brzany, Świnki, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Węgorza.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Środa</day_name>
+		<day_date>16.07.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Certy, Brzany, Suma, Świnki, Tołpygi, Leszcza, Węgorza.</day_comment_1>
+	</day_16>
+	<day_17>
+		<day_name>Czwartek</day_name>
+		<day_date>17.07.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Brzany, Suma, Klenia, Okonia, Węgorza.</day_comment_1>
+	</day_17>
+	<day_18>
+		<day_name>Piątek</day_name>
+		<day_date>18.07.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Świnki, Tołpygi, Leszcza, Klenia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Sobota</day_name>
+		<day_date>19.07.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Certy, Brzany, Suma, Świnki, Tołpygi, Leszcza, Klenia, Okonia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Niedziela</day_name>
+		<day_date>20.07.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Bolenia, Brzany, Świnki, Leszcza, Klenia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Poniedziałek</day_name>
+		<day_date>21.07.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Certy, Brzany, Suma, Tołpygi, Okonia, Węgorza.</day_comment_1>
+	</day_21>
+	<day_22>
+		<day_name>Wtorek</day_name>
+		<day_date>22.07.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Świnki, Leszcza, Klenia.</day_comment_1>
+	</day_22>
+	<day_23>
+		<day_name>Środa</day_name>
+		<day_date>23.07.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Świnki, Tołpygi, Leszcza, Klenia, Okonia, Węgorza.</day_comment_1>
+	</day_23>
+	<day_24>
+		<day_name>Czwartek</day_name>
+		<day_date>24.07.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Bolenia, Brzany, Świnki, Leszcza, Okonia.</day_comment_1>
+	</day_24>
+	<day_25>
+		<day_name>Piątek</day_name>
+		<day_date>25.07.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Amura, Bolenia, Certy, Suma, Świnki, Tołpygi, Klenia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Sobota</day_name>
+		<day_date>26.07.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Świnki, Tołpygi, Leszcza, Okonia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Niedziela</day_name>
+		<day_date>27.07.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Certy, Brzany, Suma, Świnki, Leszcza, Klenia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Poniedziałek</day_name>
+		<day_date>28.07.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Brzany, Suma, Świnki, Tołpygi, Węgorza.</day_comment_1>
+	</day_28>
+	<day_29>
+		<day_name>Wtorek</day_name>
+		<day_date>29.07.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Świnki, Okonia, Węgorza.</day_comment_1>
+	</day_29>
+	<day_30>
+		<day_name>Środa</day_name>
+		<day_date>30.07.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Brzany, Suma, Świnki, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+	</day_30>
+	<day_31>
+		<day_name>Czwartek</day_name>
+		<day_date>31.07.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Leszcza, Węgorza.</day_comment_1>
+	</day_31>    
+	</Lipiec_2014>
+	<Sierpien_2014>
+	<day_1>
+		<day_name>Piątek</day_name>
+		<day_date>01.08.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Sobota</day_name>
+		<day_date>02.08.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Bolenia, Suma, Świnki, Lina, Tołpygi, Okonia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Niedziela</day_name>
+		<day_date>03.08.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Poniedziałek</day_name>
+		<day_date>04.08.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Brzany, Suma, Świnki, Lina, Tołpygi, Węgorza, Pstrąga.</day_comment_1>
+	</day_4>
+	<day_5>
+		<day_name>Wtorek</day_name>
+		<day_date>05.08.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+	</day_5>
+	<day_6>
+		<day_name>Środa</day_name>
+		<day_date>06.08.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Certy, Brzany, Lina, Tołpygi, Pstrąga.</day_comment_1>
+	</day_6>
+	<day_7>
+		<day_name>Czwartek</day_name>
+		<day_date>07.08.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Bolenia, Brzany, Świnki, Leszcza, Klenia, Okonia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Piątek</day_name>
+		<day_date>08.08.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Sobota</day_name>
+		<day_date>09.08.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Amura, Bolenia, Brzany, Suma, Lina, Tołpygi, Leszcza, Klenia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Niedziela</day_name>
+		<day_date>10.08.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Amura, Certy, Brzany, Leszcza, Klenia, Okonia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Poniedziałek</day_name>
+		<day_date>11.08.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Certy, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Pstrąga.</day_comment_1>
+	</day_11>
+	<day_12>
+		<day_name>Wtorek</day_name>
+		<day_date>12.08.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Certy, Brzany, Świnki, Lina, Tołpygi, Leszcza, Okonia, Węgorza.</day_comment_1>
+	</day_12>
+	<day_13>
+		<day_name>Środa</day_name>
+		<day_date>13.08.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Certy, Brzany, Suma, Tołpygi, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+	</day_13>
+	<day_14>
+		<day_name>Czwartek</day_name>
+		<day_date>14.08.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia.</day_comment_1>
+	</day_14>
+	<day_15>
+		<day_name>Piątek</day_name>
+		<day_date>15.08.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Bolenia, Certy, Brzany, Lina, Okonia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Sobota</day_name>
+		<day_date>16.08.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Suma, Świnki, Lina, Leszcza, Klenia, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Niedziela</day_name>
+		<day_date>17.08.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Poniedziałek</day_name>
+		<day_date>18.08.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Amura, Bolenia, Certy, Suma, Świnki, Lina, Leszcza, Klenia, Okonia, Węgorza.</day_comment_1>
+	</day_18>
+	<day_19>
+		<day_name>Wtorek</day_name>
+		<day_date>19.08.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Węgorza, Pstrąga.</day_comment_1>
+	</day_19>
+	<day_20>
+		<day_name>Środa</day_name>
+		<day_date>20.08.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+	</day_20>
+	<day_21>
+		<day_name>Czwartek</day_name>
+		<day_date>21.08.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+	</day_21>
+	<day_22>
+		<day_name>Piątek</day_name>
+		<day_date>22.08.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia Świnki, Lina, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Sobota</day_name>
+		<day_date>23.08.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karasia, Certy, Brzany, Suma, Tołpygi, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Niedziela</day_name>
+		<day_date>24.08.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Bolenia, Certy, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Węgorza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Poniedziałek</day_name>
+		<day_date>25.08.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Okonia, Pstrąga.</day_comment_1>
+	</day_25>
+	<day_26>
+		<day_name>Wtorek</day_name>
+		<day_date>26.08.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia.</day_comment_1>
+	</day_26>
+	<day_27>
+		<day_name>Środa</day_name>
+		<day_date>27.08.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Certy, Brzany, Suma, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+	</day_27>
+	<day_28>
+		<day_name>Czwartek</day_name>
+		<day_date>28.08.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Brzany, Świnki, Lina, Tołpygi, Leszcza, Klenia, Węgorza, Pstrąga.</day_comment_1>
+	</day_28>
+	<day_29>
+		<day_name>Piątek</day_name>
+		<day_date>29.08.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Karasia, Amura, Bolenia, Certy, Brzany, Suma, Świnki, Leszcza, Klenia, Okonia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Sobota</day_name>
+		<day_date>30.08.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Karpia, Certy, Brzany, Świnki, Lina, Tołpygi, Leszcza, Klenia, Okonia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_30>
+	<day_31>
+		<day_name>Niedziela</day_name>
+		<day_date>31.08.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Świnki, Lina, Tołpygi, Leszcza, Klenia, Węgorza, Pstrąga.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci.</day_comment_2>
+	</day_31>        
+	</Sierpien_2014>
+	<Wrzesien_2014>
+	<day_1>
+		<day_name>Poniedziałek</day_name>
+		<day_date>01.09.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Wtorek</day_name>
+		<day_date>02.09.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Bolenia, Brzany, Lina, Karpia, Leszcza, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+    </day_2>
+	<day_3>
+		<day_name>Środa</day_name>
+		<day_date>03.08.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Certy, Brzany, Suma, Lina, Karasia, Karpia, Tołpygi, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Czwartek</day_name>
+		<day_date>04.09.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Karasia, Karpia, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Piątek</day_name>
+		<day_date>05.09.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Suma, Lina, Tołpygi, Leszcza, Klenia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>	</day_5>
+	<day_6>
+		<day_name>Sobota</day_name>
+		<day_date>06.09.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Certy, Brzany, Suma, Lina, Karasia, Karpia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Niedziela</day_name>
+		<day_date>07.09.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Suma, Lina, Tołpygi, Leszcza, Klenia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Poniedziałek</day_name>
+		<day_date>08.09.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Brzany, Suma, Lina, Karpia, Tołpygi, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Wtorek</day_name>
+		<day_date>09.09.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Certy, Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Środa</day_name>
+		<day_date>10.09.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Suma, Lina, Karasia, Karpia, Tołpygi.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Czwartek</day_name>
+		<day_date>11.09.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Karasia, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_11>
+	<day_12>
+		<month_name>Wrzesień</month_name>
+		<day_name>Piątek</day_name>
+		<day_date>12.09.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Suma, Lina, Tołpygi, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Sobota</day_name>
+		<day_date>13.09.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Klenia, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Niedziela</day_name>
+		<day_date>14.09.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Suma, Lina, Karasia, Karpia, Tołpygi, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Poniedziałek</day_name>
+		<day_date>15.09.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Bolenia, Certy, Brzany, Suma, Lina, Karasia, Karpia, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Wtorek</day_name>
+		<day_date>16.09.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Środa</day_name>
+		<day_date>17.09.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Lina, Karasia, Karpia, Tołpygi, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Czwartek</day_name>
+		<day_date>18.09.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Piątek</day_name>
+		<day_date>19.09.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Lina, Karasia, Karpia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Sobota</day_name>
+		<day_date>20.09.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Klenia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Niedziela</day_name>
+		<day_date>21.09.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Brzany, Suma, Lina, Karasia, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Poniedziałek</day_name>
+		<day_date>22.09.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Wtorek</day_name>
+		<day_date>23.09.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Brzany, Suma, Lina, Karasia, Tołpygi, Leszcza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Środa</day_name>
+		<day_date>24.09.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Lina, Karpia, Tołpygi, Klenia, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Czwartek</day_name>
+		<day_date>25.09.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Brzany, Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Piątek</day_name>
+		<day_date>26.09.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Certy, Lina, Karasia, Karpia, Tołpygi, Leszcza, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Sobota</day_name>
+		<day_date>27.09.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Suma, Lina, Klenia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Niedziela</day_name>
+		<day_date>28.09.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Brzany, Suma, Karasia, Karpia, Tołpygi, Leszcza, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Poniedziałek</day_name>
+		<day_date>29.09.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Klenia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Wtorek</day_name>
+		<day_date>30.09.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Certy, Brzany, Suma, Lina, Karasia, Karpia, Tołpygi, Leszcza, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Pstrąga.</day_comment_2>
+	</day_30>       
+	</Wrzesien_2014>
+	<Pazdziernik_2014>
+	<day_1>
+		<day_name>Środa</day_name>
+		<day_date>01.10.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Czwartek</day_name>
+		<day_date>02.10.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Karpia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>	</day_2>
+	<day_3>
+		<day_name>Piątek</day_name>
+		<day_date>03.10.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Karpia, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Sobota</day_name>
+		<day_date>04.10.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Bolenia, Brzany, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Niedziela</day_name>
+		<day_date>05.10.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Bolenia, Certy, Brzany, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Poniedziałek</day_name>
+		<day_date>06.10.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany, Karpia, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Wtorek</day_name>
+		<day_date>07.10.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Certy, Brzany, Karpia, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Środa</day_name>
+		<day_date>08.10.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Karpia, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Czwartek</day_name>
+		<day_date>09.10.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Bolenia, Certy, Brzany, Karpia, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Piątek</day_name>
+		<day_date>10.10.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Bolenia, Certy, Brzany, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Sobota</day_name>
+		<day_date>11.10.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany, Karpia, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Niedziela</day_name>
+		<day_date>12.10.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany, Karpia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Poniedziałek</day_name>
+		<day_date>13.10.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Brzany, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Wtorek</day_name>
+		<day_date>14.10.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Brzany, Karpia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Środa</day_name>
+		<day_date>15.10.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Brzany, Karpia, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Czwartek</day_name>
+		<day_date>16.10.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Piątek</day_name>
+		<day_date>17.10.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Brzany, Karpia, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Sobota</day_name>
+		<day_date>18.10.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Brzany, Karpia, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Niedziela</day_name>
+		<day_date>19.10.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Karpia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Poniedziałek</day_name>
+		<day_date>20.10.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Wtorek</day_name>
+		<day_date>21.10.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Brzany, Karpia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Środa</day_name>
+		<day_date>22.10.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Czwartek</day_name>
+		<day_date>23.10.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Karpia, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Piątek</day_name>
+		<day_date>24.10.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Karpia, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Sobota</day_name>
+		<day_date>25.10.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany, Karpia, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Niedziela</day_name>
+		<day_date>26.10.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Brzany, Karpia, Szczupaka, Dorsza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Poniedziałek</day_name>
+		<day_date>27.10.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Brzany, Karpia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Wtorek</day_name>
+		<day_date>28.10.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Amura, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Środa</day_name>
+		<day_date>29.10.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Brzany, Karpia, Szczupaka, Dorsza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Czwartek</day_name>
+		<day_date>30.10.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Brzany, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_30>
+	<day_31>
+		<day_name>Piątek</day_name>
+		<day_date>31.10.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Amura, Brzany, Karpia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei.</day_comment_2>
+	</day_31>	    
+	</Pazdziernik_2014>
+	<Listopad_2014>
+		<day_1>
+		<day_name>Sobota</day_name>
+		<day_date>01.11.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Brzany, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Niedziela</day_name>
+		<day_date>02.11.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Brzany, Szczupaka, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Poniedziałek</day_name>
+		<day_date>03.11.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Brzany, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Wtorek</day_name>
+		<day_date>04.11.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Szczupaka, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Środa</day_name>
+		<day_date>05.11.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Brzany, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Czwartek</day_name>
+		<day_date>06.11.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Brzany, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Piątek</day_name>
+		<day_date>07.11.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Brzany, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_7>
+	<day_8>
+		<day_name>Sobota</day_name>
+		<day_date>08.11.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Brzany, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Niedziela</day_name>
+		<day_date>09.11.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Brzany, Szczupaka, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Poniedziałek</day_name>
+		<day_date>10.11.2013</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Brzany, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Wtorek</day_name>
+		<day_date>11.11.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Środa</day_name>
+		<day_date>12.11.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Czwartek</day_name>
+		<day_date>13.11.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>	</day_13>
+	<day_14>
+		<day_name>Piątek</day_name>
+		<day_date>14.11.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Sobota</day_name>
+		<day_date>15.11.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Niedziela</day_name>
+		<day_date>16.11.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Poniedziałek</day_name>
+		<day_date>17.11.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Wtorek</day_name>
+		<day_date>18.11.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Środa</day_name>
+		<day_date>19.11.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Czwartek</day_name>
+		<day_date>20.11.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Piątek</day_name>
+		<day_date>21.11.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Sobota</day_name>
+		<day_date>22.11.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Niedziela</day_name>
+		<day_date>23.11.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Szczupaka, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Poniedziałek</day_name>
+		<day_date>24.11.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_24>
+	<day_25>
+		<day_name>Wtorek</day_name>
+		<day_date>25.11.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Środa</day_name>
+		<day_date>26.11.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Czwartek</day_name>
+		<day_date>27.11.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Piątek</day_name>
+		<day_date>28.11.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Sobota</day_name>
+		<day_date>29.11.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Niedziela</day_name>
+		<day_date>30.11.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Głowacicy, Miętusa.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_30>
+	</Listopad_2014>
+	<Grudzien_2014>
+		<day_1>
+		<day_name>Poniedziałek</day_name>
+		<day_date>01.12.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Wzdręgi, Płoci, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_1>
+	<day_2>
+		<day_name>Wtorek</day_name>
+		<day_date>02.12.2014</day_date>
+		<moon_phase>moon_phase_10.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci, Sandacza, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_2>
+	<day_3>
+		<day_name>Środa</day_name>
+		<day_date>03.12.2014</day_date>
+		<moon_phase>moon_phase_11.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Szczupaka, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_3>
+	<day_4>
+		<day_name>Czwartek</day_name>
+		<day_date>04.12.2014</day_date>
+		<moon_phase>moon_phase_12.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci, Sandacza, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_4>
+	<day_5>
+		<day_name>Piątek</day_name>
+		<day_date>05.12.2014</day_date>
+		<moon_phase>moon_phase_13.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Wzdręgi, Płoci, Sandacza, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_5>
+	<day_6>
+		<day_name>Sobota</day_name>
+		<day_date>06.12.2014</day_date>
+		<moon_phase>moon_phase_14.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_6>
+	<day_7>
+		<day_name>Niedziela</day_name>
+		<day_date>07.12.2014</day_date>
+		<moon_phase>moon_phase_15.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Sandacza, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>	</day_7>
+	<day_8>
+		<day_name>Poniedziałek</day_name>
+		<day_date>08.12.2014</day_date>
+		<moon_phase>moon_phase_16.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_8>
+	<day_9>
+		<day_name>Wtorek</day_name>
+		<day_date>09.12.2014</day_date>
+		<moon_phase>moon_phase_17.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Wzdręgi, Płoci, Sandacza, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_9>
+	<day_10>
+		<day_name>Środa</day_name>
+		<day_date>10.12.2014</day_date>
+		<moon_phase>moon_phase_18.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Płoci, Sandacza, Szczupaka, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_10>
+	<day_11>
+		<day_name>Czwartek</day_name>
+		<day_date>11.12.2014</day_date>
+		<moon_phase>moon_phase_19.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_11>
+	<day_12>
+		<day_name>Piątek</day_name>
+		<day_date>12.12.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Sandacza, Szczupaka, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_12>
+	<day_13>
+		<day_name>Sobota</day_name>
+		<day_date>13.12.2014</day_date>
+		<moon_phase>moon_phase_20.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_13>
+	<day_14>
+		<day_name>Niedziela</day_name>
+		<day_date>14.12.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci, Sandacza, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_14>
+	<day_15>
+		<day_name>Poniedziałek</day_name>
+		<day_date>15.12.2014</day_date>
+		<moon_phase>moon_phase_21.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Sandacza, Szczupaka, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_15>
+	<day_16>
+		<day_name>Wtorek</day_name>
+		<day_date>16.12.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_16>
+	<day_17>
+		<day_name>Środa</day_name>
+		<day_date>17.12.2014</day_date>
+		<moon_phase>moon_phase_22.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_17>
+	<day_18>
+		<day_name>Czwartek</day_name>
+		<day_date>18.12.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_18>
+	<day_19>
+		<day_name>Piątek</day_name>
+		<day_date>19.12.2014</day_date>
+		<moon_phase>moon_phase_23.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sandacza, Szczupaka, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_19>
+	<day_20>
+		<day_name>Sobota</day_name>
+		<day_date>20.12.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_20>
+	<day_21>
+		<day_name>Niedziela</day_name>
+		<day_date>21.12.2014</day_date>
+		<moon_phase>moon_phase_24.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci, Sandacza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_21>
+	<day_22>
+		<day_name>Poniedziałek</day_name>
+		<day_date>22.12.2014</day_date>
+		<moon_phase>moon_phase_25.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Sandacza, Szczupaka, Głowacicy.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_22>
+	<day_23>
+		<day_name>Wtorek</day_name>
+		<day_date>23.12.2014</day_date>
+		<moon_phase>moon_phase_1.jpg</moon_phase>
+		<day_brania>bardzo dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Sandacza, Szczupaka, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_23>
+	<day_24>
+		<day_name>Środa</day_name>
+		<day_date>24.12.2014</day_date>
+		<moon_phase>moon_phase_2.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Sandacza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>	</day_24>
+	<day_25>
+		<day_name>Czwartek</day_name>
+		<day_date>25.12.2014</day_date>
+		<moon_phase>moon_phase_3.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_25>
+	<day_26>
+		<day_name>Piątek</day_name>
+		<day_date>26.12.2014</day_date>
+		<moon_phase>moon_phase_4.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Wzdręgi, Płoci, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_26>
+	<day_27>
+		<day_name>Sobota</day_name>
+		<day_date>27.12.2014</day_date>
+		<moon_phase>moon_phase_5.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Sandacza.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_27>
+	<day_28>
+		<day_name>Niedziela</day_name>
+		<day_date>28.12.2014</day_date>
+		<moon_phase>moon_phase_6.jpg</moon_phase>
+		<day_brania>dobre brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Wzdręgi, Płoci, Szczupaka, Głowacicy, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_28>
+	<day_29>
+		<day_name>Poniedziałek</day_name>
+		<day_date>29.12.2014</day_date>
+		<moon_phase>moon_phase_7.jpg</moon_phase>
+		<day_brania>dostateczne brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Sandacza, Szczupaka.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_29>
+	<day_30>
+		<day_name>Wtorek</day_name>
+		<day_date>30.12.2014</day_date>
+		<moon_phase>moon_phase_8.jpg</moon_phase>
+		<day_brania>słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Okonia, Wzdręgi, Płoci, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_30>
+	<day_31>
+		<day_name>Środa</day_name>
+		<day_date>31.12.2014</day_date>
+		<moon_phase>moon_phase_9.jpg</moon_phase>
+		<day_brania>bardzo słabe brania</day_brania>
+        <day_comment_1>Dzisiaj spodziewać się można brań: Sielawy, Okonia, Wzdręgi, Płoci, Jazia.</day_comment_1>
+        <day_comment_2>Z uwagi na okres ochronny obowiązuje zakaz połowu: Miętusa, Troci, Pstrąga, Łososia, Siei, Suma.</day_comment_2>
+	</day_31>
+	</Grudzien_2014>
+</calendar>

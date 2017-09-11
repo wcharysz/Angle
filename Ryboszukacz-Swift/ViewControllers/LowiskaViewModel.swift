@@ -8,6 +8,7 @@
 
 import Foundation
 import CoreLocation
+import CoreStore
 
 class LowiskaViewModel: NSObject, ViewModel, CLLocationManagerDelegate {
     
@@ -25,4 +26,6 @@ class LowiskaViewModel: NSObject, ViewModel, CLLocationManagerDelegate {
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         
     }
+    
+    
 }

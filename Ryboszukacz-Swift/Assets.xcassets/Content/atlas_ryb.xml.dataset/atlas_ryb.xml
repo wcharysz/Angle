@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rybys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ryby>
+		<ryby_nazwa>Amur</ryby_nazwa>
+		<photo_ryby>amur_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Amur występuje na większości łowisk w Polsce, przede wszystkim w stawach oraz nizinnych rzekach. Żyjąc w stadach liczących sobie kilkanaście osobników dorasta do około 150 centymetrów długości osiągając wagę 45 kilogramów. Polski rekord  wynosi 132 centymetry przy wadze 39,20 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: 3 sztuki (łącznie z boleniem, brzaną, karpiem, lipieniem, pstrągiem potokowym, sandaczem i szczupakiem)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Amura spodziewać się można podczas świtu, zmierzchu oraz nocą w miesiącach: kwiecień, maj, czerwiec, lipiec, sierpień, wrzesień, październik.</aktywnosc_ryby>
+		<przyneta_ryby>ziemniaki, zielona sałata, pędy białej koniczyny, kukurydza, kulki proteinowe, śliwa mirabelka, larwy much (białe robaki) przy użyciu gruntówki ze spławikiem lub bez spławika, gruntówki z ołowiem przelotowym lub sprężyny zanętowej</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Belona</ryby_nazwa>
+		<photo_ryby>belona_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Na terytorium Polski ryba spotykana tylko w akwenie Morza Bałtyckiego. Żeruje w stadach tuż pod powierzchnią wody, żywiąc się skorupiakami oraz planktonem. Rekord Polski wynosi 89 centymetrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: nie ma</dodatkowe_info>
+		<aktywnosc_ryby>Brań Belony spodziewać się można przed świtem, po zmierzchu oraz w nocy w miesiącach maj i czerwiec.</aktywnosc_ryby>
+		<przyneta_ryby>srebrne błystki wahadłowe o wydłużonym kształcie o wadze od 10g do 16g, wydłużona błystka trociowa, czerwony lub biały robak przy użyciu zestawu spinningowego lub spławikowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Boleń</ryby_nazwa>
+		<photo_ryby>bolen_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Boleń na terenie Polski występuje w średnich rzekach nizinnych, jeziorach oraz zbiornikach zaporowych. Młode osobniki żyją w stadach w okolicy brzegu zbiorników. Dorosłe preferują samotny tryb życia w pobliżu nurtu rzeki. Ryba ta może osiągnąć maksymalnie 120 centymetrów długości przy 12 kilogramowej masie ciała. Rekord Polski wynosi 90 centymetrów przy wadze 8,05 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 stycznia do 30 kwietnia; Wymiar ochronny: 40 cm; Limit dzienny: 2 sztuki (łącznie z trocią, łososiem, sandaczem, szczupakiem, sieją, węgorzem)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Bolenia spodziewać się można podczas ciepłych popołudni oraz nocy w miesiącach: maj, czerwiec, lipiec, sierpień, wrzesień oraz sporadycznie październik.</aktywnosc_ryby>
+		<przyneta_ryby>twistery, ruppery w kolorze białym lub perłowym z domieszką brokatu, głęboko schodzące woblery; sposoby połowu: spinningowa, muchowa, żywcówka, spławikowa i gruntowa</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Brzana</ryby_nazwa>
+		<photo_ryby>brzana_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Brzana najczęściej spotykana jest rzekach o kamienistych dnach i rwącym nurcie. Ryba ta może osiągnąć maksymalnie 100 centymetrów długości. Rekord Polski wynosi 85 centymetrów przy wadze 7 kilogramów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 stycznia do 30 czerwca; Wymiar ochronny: 40 cm; Limit dzienny: 3 sztuki (łącznie ze szczupakiem, sandaczem, karpiem, lipieniem, boleniem, pstrągiem potokowym, amurem)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Brzany spodziewać się można o zmierzchu i nocą w miesiącach: lipiec, sierpień, wrzesień, październik oraz początek listopada.</aktywnosc_ryby>
+		<przyneta_ryby>rosówka, ser lub słonina podawane blisko dna przy użyciu gruntu, spławika lub spinningu</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Certa</ryby_nazwa>
+		<photo_ryby>certa_1.jpg</photo_ryby>
+		<author>autor: Tokic</author>
+		<opis_ryby>Certa występuje w dolnych partiach większości rzek w Polsce, spotykana jest także przy wybrzeżach Bałtyku.  Ryba ta może osiągnąć ponad 50 centymetrów długości. Rekordowy osobnik ważył 1,74 kilograma i mierzył 51 centymerów długości.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 stycznia do 30 czerwca w rzece Wiśle od zapory we Włocławku do jej ujścia - od dnia 1.IX do 30.XI, w rzece Wiśle powyżej zapory we Włocławku i w pozostałych rzekach - od 1.I do 30.VI; Wymiar ochronny: 30 cm (obowiązuje także w wodach morskich); Limit dzienny: 5 sztuk (łącznie ze Świnką)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Certy spodziewać się można o świcie, rano, późnym popołudniem oraz wieczorem w miesiącach: lipiec, sierpień, wrzesień oraz początek października.</aktywnosc_ryby>
+		<przyneta_ryby>larwy owadów np. muchy plujki, motyla lub widelnicy przy użyciu spławika lub gruntu. Zanęta: kulki nętowe złożone z bułki tartej, moczonego chleba, otrębów, płatki owsiane, mleko w proszku</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Dorsz</ryby_nazwa>
+		<photo_ryby>dorsz_1.jpg</photo_ryby>
+		<author>autor: Hans-Petter Fjeld</author>
+		<opis_ryby>Dorsz na terenie Polski występuje w Morzu Bałtyckim. Posiada on dużą głowę z szerokim pyskiem i podbródkiem, zaopatrzonym w pojedynczy wąs. Długość ciała dorsza żyjącego w Bałtyku to około 30-70 centymetrów, a przeciętny ciężar to 0,8-3 kg. Największe osobniki mogą osiągać masę 40 kilogramów, przy długości ciała około 2 metrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: brak</dodatkowe_info>
+		<aktywnosc_ryby>Brań Dorsza spodziewać się można o świcie, rano i po południu w miesiącu marcu oraz jesienią we wrześniu i październiku.</aktywnosc_ryby>
+		<przyneta_ryby>pilkery, jig-i o wadze 130 gram, krajanka śledziowa, szprotki, tobiasze, stynki; w skład zestawu wchodzi: plecionka wraz z potrójnym krętlikiem, przepona z pilkerem oraz kotwicą lub hakiem</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Głowacica</ryby_nazwa>
+		<photo_ryby>glowacica_1.jpg</photo_ryby>
+		<author>autor: Harald Peki </author>
+		<opis_ryby>Głowacica jest rybą występującą w wodach zimnych, o silnym nurcie i dużym natlenieniu. Najczęściej są to rzeki o kamienistym dnie. W Polsce występuje m.in. w Dunajcu, Sanie, Skawie, Nysie Kłodzkiej. Przeciętnie ryba ta mierzy 80-100 centymetrów, przy wadze 5–10 kilogramów. Największy złowiony do tej pory osobnik osiągnął 183 centymetry długości i 60 kilogramów wagi.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 marca do 31 maja; Wymiar ochronny: 70 cm; Limit tygodniowy: 1 sztuka (od poniedziałku do niedzieli)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Głowacicy spodziewać się można w miesiącach: czerwiec, październik, listopad o wszystkich porach dnia z wyjątkiem południa. </aktywnosc_ryby>
+		<przyneta_ryby>rippery, woblery o długości 10-18 cm, woblery przypominające pokarm naturalny np. kiełb, ukleje, płotki, szczupaki, błystki obrotowe i wahadłowe, muchy (nimfa, streamer)</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Jaź</ryby_nazwa>
+		<photo_ryby>jaz_1.jpg</photo_ryby>
+		<author>autor: Viridiflavus</author>
+		<opis_ryby>Jaź jest rybą żyjącą stadnie w wodach płynących oraz w zamkniętych zbiornikach wodnych. Dorosły osobnik osiąga maksymalnie 80 centymetrów długości nie przekraczając przy tym 5 kilogramów wagi.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: 25 cm; Limit dzienny: 10 sztuk (łącznie z kleniem)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Jazia spodziewać się można o świcie, rano, o zmierzchu oraz wieczorem  w ciągu całego roku aczkolwiek najlepsze połowy przypadają na kwiecień, maj i czerwiec.</aktywnosc_ryby>
+		<przyneta_ryby>spławik, grunt, spinning przy użyciu kukurydzy, przenicy lub larw owadów</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Jelec</ryby_nazwa>
+		<photo_ryby>jelec_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Jelca można spotkać najsczęściej w rzekach o piaszczystym dnie. Osiąga długość do 30 centymetrów oraz masę 250 gram. Z reguły używany jako żywa przynęta dla większych drapieżników. </opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny 15 cm; Limit dzienny: 5 kg</dodatkowe_info>
+		<aktywnosc_ryby>Brań Jelca można się spodziewać w ciągu całego dnia na przełomie kwietnia i maja oraz w czerwcu.</aktywnosc_ryby>
+		<przyneta_ryby>dżdżownice, larwy owadów przy użyciu zestawu spławikowego, przepływanki lub muchówki</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Jesiotr</ryby_nazwa>
+		<photo_ryby>jesiotr_1.jpg</photo_ryby>
+		<author>autor: Cacophony </author>
+		<opis_ryby>W Polsce w naturalnych warunkach Jesiotr występuje bardzo sporadycznie a jego połów jest prawnie zakazany. Jest rybą stadną, przydenna występującą głównie w najgłębszych rejonach mórz i rzek o mulistym lub piaszczystym dnie. Dorosłe osobniki niektórych gatunków osiągają długość nawet 4 metrów oraz wagę 300 kilogramów. </opis_ryby>
+		<dodatkowe_info>Zakaz połowu za wyjątkiem prywatnych gospodarstw rybnych</dodatkowe_info>
+		<aktywnosc_ryby>Brań Jesiotra można się spodziewać głownie nocą podczas wiosennych oraz letnich miesięcy.</aktywnosc_ryby>
+		<przyneta_ryby>robaki czerwone i białe, rosówki, dendrobeny, ziarna kukurydzy, ciasto z chleba przy użyciu na przykład zestawu gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Karaś</ryby_nazwa>
+		<photo_ryby>karas_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Karaś najczęściej spotykany jest w nizinnych wodach śródlądowych, stojących i wolno płynących. Ryba ta może osiągnąć maksymalnie 50 centymetrów długości przy masie nieprzekraczającej 1,5 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: brak</dodatkowe_info>
+		<aktywnosc_ryby>Brań Karasia można spodziewać się wczesnym rankiem w ciągu całego roku aczkolwiek najlepsze brania przypadają w miesiącach: maj, czerwiec, lipiec, sierpień, wrzesień.</aktywnosc_ryby>
+		<przyneta_ryby>larwy ochotki, larwy chruścika, ziarna kukurydzy przy użyciu zestawu spławikowego lub gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Karp</ryby_nazwa>
+		<photo_ryby>karp_1.jpg</photo_ryby>
+		<author>autor: Dezidor</author>
+		<opis_ryby>Często spotykany w starorzeczach, głębokich rzekach oraz rozlewiskach. Jest także najpopularniejszą rybą hodowlaną na całym świecie. Rekord światowy wynosi 44,95 kilograma, rekord Polski to 34 kilogramy i 110 centymetrów długości.</opis_ryby>
+		<dodatkowe_info> Okres ochronny: nie ma; Wymiar ochronny: 30 cm (nie dotyczy rzek); Limit dzienny: 3 sztuki (łącznie z amurem, brzaną)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Karpia można spodziewać się o świcie, wczesnym rankiem, o zmierzchu, wieczorem oraz nocą w ciągu całego roku aczkolwiek najlepsze brania wypadają w miesiącach od kwietnia do października. Najintensywniej żeruje przy temperaturze wody wynoszącej 10 °C.</aktywnosc_ryby>
+		<przyneta_ryby>ziarna łubinu, ziemniaki, kukurydza, białe i czerwone robaki oraz kulki proteinowe przy użyciu zestawu spławikowego lub gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Kleń</ryby_nazwa>
+		<photo_ryby>klen_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Kleń jest ryba słodkowodną, występuje w jeziorach, zbiornikach zaporowych, rzekach oraz strumykach. Jest to jedna z najczęściej poławianych ryb w Polsce. Kleń przeciętnie osiaga długość 30-40 centymetrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: 25 cm; Limit dzienny: 10 sztuk (łącznie z jaziem)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Kleni można się spodziewać w miesiącach: lipiec, sierpień i wrzesień. Najlepszymi porami na połów są świt, ranek, wieczór oraz zmierzch. </aktywnosc_ryby>
+		<przyneta_ryby>zielona gąsienica (kapustnica), stonka, chrabąszcz majowy i czerwcowy, pijawki, wiśnie, czereśnie, groch, koniki polne</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Krąp</ryby_nazwa>
+		<photo_ryby>krap_1.jpg</photo_ryby>
+		<author>autor: Algirdas</author>
+		<opis_ryby>Krąp jest rybą szeroko rozpowszechnioną w Polsce. Żyje stadnie, zazwyczaj w pobliżu dna. Występuje w rzekach, jeziorach nizinnych i zbiornikach zaporowych. Osiąga maksymalnie 35 centymetrów długości.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: nie ma</dodatkowe_info>
+		<aktywnosc_ryby>Brań Krąpi można się spodziewać w kwietniu, maju, czerwcu, sierpniu, wrześniu w nocy oraz o każdej porze dnia z wyjątkiem godzin okołopołudniowych.</aktywnosc_ryby>
+		<przyneta_ryby>wanilia, białe i czerwone robaki, ziarna kukurydzy, czerw, chleb przy użyciu na przykład zestawu spławikowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Leszcz</ryby_nazwa>
+		<photo_ryby>leszcz_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Leszcz jest rybą słodkowodną występującą w Polsce pospolicie. Żyje w dużych jeziorach, rzekach nizinnych oraz w przybrzeżnej strefie Bałtyku. Przeciętnie leszcz waży ponad 6 kilogramów i osiąga długość do 82 centymetrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 10 kwietnia do 20 czerwca (w jeziorze Drużno i wodach łączących to jezioro z Zalewem Wiślanym); Wymiar ochronny: nie ma; Limit dzienny: 10 sztuk</dodatkowe_info>
+		<aktywnosc_ryby>Brań Leszcza można się spodziewać w lipcu, sierpniu, wrześniu, o świcie, rano, w godzinach przedpołudniowych, wieczornych, a także w nocy.</aktywnosc_ryby>
+		<przyneta_ryby>białe i czerwone robaki, kukurydza, groch, pszenica, kastery, makaron przy użyciu na przykład zestawu gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Lin</ryby_nazwa>
+		<photo_ryby>lin_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Lin występuje w jeziorach, stawach i rzekach, a także w wodach słonawych tj. przybrzeżna strefa Bałtyku. Osiąga on długość 30-40 centymetrów, przy masie około 1-2 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: 25 cm; Limit dzienny: 4 sztuki</dodatkowe_info>
+		<aktywnosc_ryby>Brań Lina można się spodziewać w miesiącach: maj, sierpień, wrzesień, wczesnym rankiem oraz wieczorem.</aktywnosc_ryby>
+		<przyneta_ryby>biały i czerwony robak, pszenica, ziemniaki, rosówki, ślimaki, pijawki, chleb z czosnkiem przy użyciu zestawu gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Lipień</ryby_nazwa>
+		<photo_ryby>lipien_1.jpg</photo_ryby>
+		<author>autor: Orjatar</author>
+		<opis_ryby>W Polsce wystepuje głównie w rzekach na Pomorzu, w Karpatach i Sudetach. Maksymalnie może osiągnąć 60 cm długości. Lipień jest wrażliwy na zanieczyszczenia wody.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 marca do 31 maja; Wymiar ochronny: 30 cm; Limit dzienny: 3 sztuki (łącznie z pstrągiem potokowym)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Lipienia można się spodziewać w miesiącach jesiennych o świcie, rano, przed południem i wieczorem.</aktywnosc_ryby>
+		<przyneta_ryby>sztuczne muchy suche i mokre, nimfy wspomagane skoczkiem, niewielkie obrotówki przy użyciu metody spinningowej</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Łosoś</ryby_nazwa>
+		<photo_ryby>losos_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>W Polsce żyje w Bałtyku oraz nadmorskich rzekach. Łososie zmieniając środowisko życia ze słodkowodnego na słonowodne, jednocześnie zmieniają ubarwienie. Przeciętny osobnik mierzy do 150 centymetrów długości przy 24 kilogramach masy ciała. Ryba ta jest objęta ściśle określonym okresem ochronnym, który zależy od miejsca, pory roku oraz dnia tygodnia. </opis_ryby>
+		<dodatkowe_info>Okres ochronny: w rzece Wiśle i jej dopływach powyżej zapory we Włocławku od 1 października do 31 grudnia, w pozostałym okresie obowiązuje zakaz połowu łososia w czwartki, soboty i niedziele, na odcinku rzeki Wisły od zapory we Włocławku do jej ujścia od 1 grudnia do końca lutego; W okresie od 1 marca do 31 sierpnia obowiązuje zakaz połowu w piątki, soboty i niedziele, w pozostałych rzekach od 1 października do 31 grudnia; Wymiar ochronny: 30 cm; Limit dzienny: 2 sztuki (razem z trocią, boleniem, sandaczem, szczupakiem, sieją, węgorzem)</dodatkowe_info>
+		<aktywnosc_ryby>Brań Łososia można się spodziewać w ciągu całego dnia prócz godzin południowych w miesiącach kwiecień i maj. </aktywnosc_ryby>
+		<przyneta_ryby>muchy tubowe, cykada, pęki robaków, sztuczne muchy, woblery, błystki wahadłowe i obrotowe, specjalne łososiowe wędzisko muchowe </przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Miętus</ryby_nazwa>
+		<photo_ryby>mietus_1.jpg</photo_ryby>
+		<author>autor: Achim R. Schloeffel</author>
+		<opis_ryby>Miętus jest to jedyna ryba należąca do rodziny dorszowatych, która żyje w wodach słodkich. Występuje w wodach dobrze natlenionych, wartkich, czystych, ze żwirowym dnem oraz głębokich jeziorach. Miętus dorasta przeciętnie do 30-60 centymetrów długości. Maksymalnie może osiągnąć 120 centymetrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: na wszystkich wodach z wyjątkiem strefy na Odrze od ujścia rzeki Warty do granic z wodami morskimi od 1 grudnia do końca lutego; Wymiar ochronny: na rzece Odrze od ujścia rzeki Warty, do granic z wodami morskimi wynosi 30 centymetrów, w pozostałych wodach 25 centymetrów; Limit dzienny: 5 kg</dodatkowe_info>
+		<aktywnosc_ryby>Brań Miętusa można się spodziewać w miesiącu grudniu, lutym i marcu o świcie, zmierzchu i w nocy.</aktywnosc_ryby>
+		<przyneta_ryby>czerwone robaki, ogonki lub filety z płoci lub uklei, krewetki, rosówki, jelita drobiowe przy użyciu na przykład zestawu gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Okoń</ryby_nazwa>
+		<photo_ryby>okon_1.jpg</photo_ryby>
+		<author>autor: Dgp.martin</author>
+		<opis_ryby>Okoń występuje w wodach przybrzeżnych Bałtyku, jeziorach, stawach, wyrobiskach oraz rzekach. Młode okonie często żyją w ławicach, w przeciwieństwie do starszych ryb. Przeciętnie ryba ta mierzy 30 centymetrów i waży w granicach 1 kilograma, jednak dorosłe osobniki mogą dorastać nawet do 60 centymetrów długości, przy masie do 4 kilogramów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: 18 centymetrów; Limit dzienny: 5 kg</dodatkowe_info>
+		<aktywnosc_ryby>Brań Okonia można się spodziewać w miesiącach: styczeń, maj, lipiec, sierpień, wrzesień, grudzień. Najlepszych brań można się spodziewać w nocy oraz w ciągu całego dnia z wyjątkiem godzin okołopołudniowych.</aktywnosc_ryby>
+		<przyneta_ryby>błystki wahadłowe i obrotowe, twistery, małe ukleje, kiełbie, stynki, kijanka, białe i czerwone robaki, sztuczne rosówki, woblery przy użyciu zestawu gruntowego lub spinningowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Płoć</ryby_nazwa>
+		<photo_ryby>ploc_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Płoć jest rybą żyjąca stadnie. Występuje we wszystkich wodach Polski: stawach, wyrobiskach, jeziorach i rzekach z wyjątkiem górskich. Płocie przeciętnie mierzą 30–40 centymetrów, przy wadze 0,5–2 kilograma. Ryby te stanowią przynętę do połowu wielu ryb m. in. sumów, sandczy, szczupaków.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: 5 kg</dodatkowe_info>
+		<aktywnosc_ryby>Brań Płoci można się spodziewać w miesiącach: marzec, kwiecień, sierpień, wrzesień. Najlepszych brań można się spodziewać w nocy i w ciągu całego dnia, za wyjątkiem godzin południowych.</aktywnosc_ryby>
+		<przyneta_ryby>pszenica, ciasto (z cukrem waniliowym), groch , kukurydza, chrusciki, biały i czerwony robak, chleb, pinka, larwy ochotki</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Pstrąg</ryby_nazwa>
+		<photo_ryby>pstrag_1.jpg</photo_ryby>
+		<author>autor: Derek Ramsey </author>
+		<opis_ryby>W naszym kraju występuje bardzo nielicznie w górskich potokach charakteryzujących się zimną wodą oraz bystrym  prądem. Dorosły osobnik osiąga długość 50 centymetrów przy wadze 3 kilogramów. </opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 września do 31 stycznia (w Wiśle i jej dopływach do ujścia rzeki San oraz w dopływach rzeki Odry do ujścia rzeki Bystrzycy - od 1.IX do 31.I, w rzece Wiśle od ujścia potoku Malinka do jazu w Kiczycach obowiązuje okres ochronny do końca lutego, w pozostałych wodach - od 1.IX do 31.XII); Wymiar ochronny: od 25 do 30 centymetrów (w Wiśle i jej dopływach od jej źródeł do ujścia rzeki San, w rzece San i jej dopływach oraz w rzece Odrze od granicy państwowej z Republiką Czeską do ujścia rzeki Bystrzycy, a także w rzece Bystrzycy i jej dopływach wymiar ochronny wynosi 25 cm, w pozostałych wodach wymiar ochronny wynosi 30 cm); Limit dzienny: 3 sztuki (pstrąg potokowy razem z lipieniem), 3 sztuki (pstrąg tęczowy razem z pstrągiem źródlanym)</dodatkowe_info>
+		<aktywnosc_ryby>Brań pstrąga spodziewać się można w ciągu całego dnia a w szczególności o świcie w miesiącach od stycznia do września.</aktywnosc_ryby>
+		<przyneta_ryby>sztuczna mucha, wobler, łamany wobler, twister w ciemnym kolorze, obrotówka nr 1-0 w kolorach miedź, mosiądz lub mleczno-białych</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Sandacz</ryby_nazwa>
+		<photo_ryby>sandacz_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Występuje we wszystkich słodkich wodach Polski: stawach, jeziorach, rzekach oraz strefie przybrzeżnej Morza Bałtyckiego. Preferuje wody dobrze natlenione. Największą aktywność wykazuje rano, wieczorem i w nocy. Sandacz przeciętnie mierzy 100 centymetrów i waży 10 kilogramów. Rekordowego osobnika Polski złowiono w 2004 roku. Sandacz ten ważył 15,6 kilograma przy długości 108 centymetrów.</opis_ryby>
+		<dodatkowe_info> Okres ochronny: od 1 stycznia do 31 maja (w wodach morskich od 25.III do dnia 10.V na obszarze na zachód od południka 16°40' długości geograficznej wschodniej, od 10.IV do dnia 31.V na obszarze pomiędzy południkami 16°40' a 19°00' długości geograficznej wschodniej, 20.IV do dnia 10.VI na wschód od południka 19°00' długości geograficznej wschodniej); Wymiar ochronny: 50 cm (obowiązuje także w wodach morskich); Limit dzienny: 2 sztuki (łącznie z trocią, łososiem, sieją, szczupakiem, boleniem, węgorzem)</dodatkowe_info>
+		<aktywnosc_ryby>Najlepszych brań Sandacza można się spodziewać w czerwcu, październiku, listopadzie, grudniu. Najlepszymi porami na połów są świt, ranek, zmierzch i noc.</aktywnosc_ryby>
+		<przyneta_ryby>cykady, gumowe rippery 4-6 calowe, twistery 4-5 calowe, przynęty gumowe 5-12 cm, żywe lub martwe ukleje, kiełbie, małe płocie</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Sieja</ryby_nazwa>
+		<photo_ryby>sieja_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Sieja występuje w przybrzeżnych wodach Morza Bałtyckiego, stawach, wyrobiskach i jeziorach m.in. Wigry, Wdzydze, Miedwie, Łebsko. Jest rybą zimnolubną, preferuje wody czyste, dobrze natlenione. Osobniki osiągają długość ok. 30-50 centymetrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 15 października do 31 grudnia; Wymiar ochronny: 35 cm; Limit dzienny: 2 sztuki (łącznie z trocią, łososiem, sandaczem, szczupakiem, boleniem, węgorzem)</dodatkowe_info>
+		<aktywnosc_ryby>Najlepszych brań można się spodziewać w styczniu, lutym, grudniu o świcie oraz rankiem.</aktywnosc_ryby>
+		<przyneta_ryby>błystka srebrnoszara z bardzo ostrymi i niezbyt grubymi haczykami wielkości 1,5 - 3 cm, małże, gotowany groch, pęcak, larwy ochotki, białe i czerwone robaki </przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Sielawa</ryby_nazwa>
+		<photo_ryby>sielawa_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Sielawa należy do rodziny łososiowatych. Występuje w stawach, wyrobiskach i jeziorach zlewiska Morza Bałtyckiego. Żyje w wodach czystych, dobrze natlenionych. Żeruje w ławicach, odżywia się głównie zooplanktonem. Przeciętny osobnik mierzy około 30 centymetrów, jego masa nie przekracza 1 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: 18 cm; Limit dzienny: 5 kilogramów</dodatkowe_info>
+		<aktywnosc_ryby>Najlepszych brań Sielawy można spodziewać się w miesiącach zimowych: styczniu, lutym i grudniu, w godzinach porannych.</aktywnosc_ryby>
+		<przyneta_ryby>mormyszka 2-3 mm, 2-3 ochotki na haczyku</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Sum</ryby_nazwa>
+		<photo_ryby>sum_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Sum jest największą rybą słodkowodną zamieszkującą Europę. Rzadko występuje w jeziorach, często w rzekach zlewisk Morza Bałtyckiego. Preferuje wody ciepłe. Najwiekszą aktywność wykazuje wieczorem oraz w nocy, kiedy żeruje samotnie, może być kanibalem. Przeciętny osobnik ma długość około 2 metrów i masę ciała ponad 100 kilogramów. Rekordowy osobnik złowiony w Polsce w 2011 roku ważył 109 kilogramów i mierzył 261 centymetrów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 listopada do 30 czerwca (w Odrze od ujscia rzeki Warty do granicy z wodami morskimi - od 1 marca do 31 maja); Wymiar ochronny: 70 cm; Limit dzienny: 1 sztuka</dodatkowe_info>
+		<aktywnosc_ryby>Najlepszych brań Suma można się spodziewać w miesiącach: lipiec, sierpień, wrzesień. Najlepsza porą dnia na połów jest: świt, wieczór, zmierzch oraz noc.</aktywnosc_ryby>
+		<przyneta_ryby>martwe ryby, filety ryb, rosówki, martwe żaby, martwe myszy, jelita drobiu, wątroba wieprzowa, pijawki</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Szczupak</ryby_nazwa>
+		<photo_ryby>szczupak_1.jpg</photo_ryby>
+		<author>autor: Georg Mittenecker</author>
+		<opis_ryby>W Polsce żyje w słodkich wodach stojących, płynących, a także w Morzu Bałtyckim. Rekordowy w Polsce osobnik mierzył 128 centymetrów przy wadze 24,10 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 stycznia do 30 kwietnia; Wymiar ochronny: 50 cm; Limit dzienny: 2 sztuki (razem z trocią, łososiem, sandaczem, boleniem, sieją, węgorzem)</dodatkowe_info>
+		<aktywnosc_ryby>Najlepszych brań Szczupaka można się spodziewać w miesiącu maju, wrześniu, październiku, listopadzie. Największe branie ma miejsce w godzinnach rannych i przedpołudniowych, a także wieczorem. </aktywnosc_ryby>
+		<przyneta_ryby>płotki, blachy wahadłowe, obrotówki typu mepps, woblery</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Świnka</ryby_nazwa>
+		<photo_ryby>swinka_1.jpg</photo_ryby>
+		<author>autor: André Karwath </author>
+		<opis_ryby>Świnka żyje stadnie głównie w bystrych podgórskich i górskich rzekach. Może żyć nawet 17 lat. Ryba ta odżywia się głównie glonami, mięczakami oraz kiełżami. Przeciętna świnka mierzy 25 – 40 centymetrów i waży 1-2 kilogramów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 1 stycznia do 15 maja; Wymiar ochronny: 25 cm; Limit dzienny: 5 kilogramów</dodatkowe_info>
+		<aktywnosc_ryby>Najczęstszych brań Świnki można spodziewać się w miesiącach letnich: czerwcu, lipcu, sierpniu w ciągu całego dnia oraz nocy</aktywnosc_ryby>
+		<przyneta_ryby>pęczak, parzona pszenica, białe i czerwone robaki, rosówki przy użyciu zestawu gruntowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Tołpyga</ryby_nazwa>
+		<photo_ryby>tolpyga_1.jpg</photo_ryby>
+		<author>autor: Tdk</author>
+		<opis_ryby>Tołpyga żyje w wodach wolno płynących i stojących: stawach, wyrobiskach oraz jeziorach. Jest rybą introdukowaną w celu zmniejszenia zarastania zbiorników wodnych. Może osiągnąć maksymalnie 100 centymetów długości. W Polsce nie rozmnaża się w warunkach naturalnych. Rekordowego osobnika Polski udało się złowić w 2006 roku, osiągnął wagę 54 kilogramów mierząc przy tym 143 centymetry długości.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: nie ma</dodatkowe_info>
+		<aktywnosc_ryby>Największych brań Tołpygi można się spodziewać o świcie, rano, wieczorem oraz o zmierzchu w miesiącach: maj, lipiec, sierpień i wrzesień.</aktywnosc_ryby>
+		<przyneta_ryby>parzona pszenica, pęcak, larwy owadów, mielone ciastka, larwy ochotki</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Troć</ryby_nazwa>
+		<photo_ryby>troc_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>W Polskich warunkach Troć spotkać można przede wszystkim u wybrzeży Morza Bałtyckiego. Dorosłe osobniki osiągają długość około 1 metra ważąc przy tym ponad 30 kilogramów.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: w  Wiśle i jej dopływach powyżej zapory we Włocławku od 1 października do 31 grudnia, w pozostałym okresie obowiązuje zakaz połowu troci w czwartki, soboty i niedziele, na odcinku rzeki Wisły od zapory we Włocławku do jej ujścia od 1 grudnia do końca lutego; w okresie od 1 marca do 31 sierpnia obowiązuje zakaz połowu w piątki, soboty i niedziele, w pozostałych rzekach od 1 października do 31 grudnia; Wymiar ochronny: 35 cm; Limit dzienny: 2 sztuki (wraz z boleniem, łososiem, sandaczem, szczupakiem, sieją, węgorzem)</dodatkowe_info>
+		<aktywnosc_ryby>Najwiekszych brań Troci można się spodziewać w ciągu całego dnia prócz godzin południowych w miesiącach: styczeń, luty i marzec.</aktywnosc_ryby>
+		<przyneta_ryby>obrotówki matowo-srebrne, wahadłówki, woblery, sztuczne suche i mokre muchy, streamery, błystki trociowe</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Ukleja</ryby_nazwa>
+		<photo_ryby>ukleja_1.jpg</photo_ryby>
+		<author>autor: Piet Spaans</author>
+		<opis_ryby>Ukleja żyje gromadnie w jeziorach, stawach, wyrobiskach i rzekach na terenie całej Polski. Przeciętny osobnik osiaga długość10–20 centymetrów oraz 10–40 gramów masy ciała. Ryba ta jest wykorzystywana przez wędkarzy często jako przynęta do połowu innych ryb. Żyje około 3-6 lat. </opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: nie ma; Limit dzienny: 5 kg</dodatkowe_info>
+		<aktywnosc_ryby>Brań Uklei można się spodziewać w przez cały dzień w ciągu całego roku.</aktywnosc_ryby>
+		<przyneta_ryby>pinka, białe robaki, larwy ochotki, ciasto, sztuczne muchy, bułka tarta przy użyciu zestawu spławikowego</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Węgorz</ryby_nazwa>
+		<photo_ryby>wegorz_1.jpg</photo_ryby>
+		<author>autor: ふうけ</author>
+		<opis_ryby>W Polsce węgorz występuje w wodach Morza Bałtyckiego oraz bardzo licznych ciepłych jeziorach, zbiornikach zaporowych, stawach i rzekach. Wymiary ciała zależą od płci ryby. Samice są większe, mają około 2 metrów długości. Maksymalna długość samców to 60 centymetrów. Węgorze są niebezpieczne ze względu na znajdującą się w ich krwi ichtiotoksynę. Polski rekord wynosi 144 centymetry przy wadze 6,43 kilograma.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: od 15 czerwca do 15 lipca; Wymiar ochronny: od 40 do 50 cm (na wodach PZW wymiar ochronny dla węgorza wynosi 50 cm, w wodach morskich obowiązuje wymiar 40 cm); Limit dzienny: 2 sztuki (łącznie z trocią, łososiem, sandaczem, szczupakiem, sieją, boleniem)</dodatkowe_info>
+		<aktywnosc_ryby>Największych brań Węgorza można się spodziewać w czerwcu, lipcu, sierpniu. Najlepszą na połów porą dnia jest świt oraz wieczór, zmierzch i noc.</aktywnosc_ryby>
+		<przyneta_ryby>czerwone robaki, rosówki, małe ukleje i płotki, wątróbka i serce kurczaka</przyneta_ryby>
+	</ryby>
+	<ryby>
+		<ryby_nazwa>Wzdręga</ryby_nazwa>
+		<photo_ryby>wzdrega_1.jpg</photo_ryby>
+		<author></author>
+		<opis_ryby>Wzdręga jest rybą stadną, żyjącą w wodach spokojnych, jeziorach i rzekach o mulistym dnie. Jej przeciętna długość to 25-30 centymetrów. Wymiar ochronny tej ryby wynosi 15 centymetrów. Rekordowy osobnik złowiony w Polsce w 2005 roku mierzył 46 centymetrów. Wzdręga nadaje się do hodowli w przydomowych ozdobnych stawkach.</opis_ryby>
+		<dodatkowe_info>Okres ochronny: nie ma; Wymiar ochronny: 15 cm; Limit dzienny: 5 kg</dodatkowe_info>
+		<aktywnosc_ryby>Najwiekszych brań Wzdręg można się spodziewać od maja do września w ciągu całego dnia, za wyjątkiem godzin południowych.</aktywnosc_ryby>
+		<przyneta_ryby>robaki białe i czerwone, larwy owadów, koniki polne, motyle, chleb</przyneta_ryby>
+	</ryby>
+</rybys>
