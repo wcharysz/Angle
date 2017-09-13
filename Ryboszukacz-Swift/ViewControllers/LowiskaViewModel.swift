@@ -23,9 +23,24 @@ class LowiskaViewModel: NSObject, ViewModel, CLLocationManagerDelegate {
         return manager
     }()
     
+    var lowiskaAnnotations: [CDLowisko]? {
+        didSet {
+            if let annotations = lowiskaAnnotations {
+                delegate?.mapView.addAnnotations(annotations)
+            }
+        }
+    }
+    
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         
     }
     
+    func loadLowiska() {
+        lowiskaAnnotations = CoreStore.fetchAll(From<CDLowisko>()) ?? loadLowiskaFromAssets()
+    }
+    
+    func loadLowiskaFromAssets() -> [CDLowisko]? {
+        return nil
+    }
     
 }

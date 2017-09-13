@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <entity name="CDLowisko" representedClassName="CDLowisko" syncable="YES" codeGenerationType="class">
+    <entity name="CDLowisko" representedClassName="CDLowisko" syncable="YES">
         <attribute name="latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="lowisko_id" optional="YES" attributeType="Integer 32" usesScalarValueType="NO" syncable="YES"/>
@@ -17,7 +17,7 @@
         <attribute name="wojewodztwo_latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="wojewodztwo_longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
     </entity>
-    <entity name="CDMojeLowiska" representedClassName="CDMojeLowiska" syncable="YES" codeGenerationType="class">
+    <entity name="CDMojeLowiska" representedClassName="CDMojeLowiska" syncable="YES">
         <attribute name="gmina" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
@@ -37,7 +37,7 @@
         <attribute name="wojewodztwo_latitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="wojewodztwo_longitude" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
     </entity>
-    <entity name="CDWyprawy" representedClassName="CDWyprawy" syncable="YES" codeGenerationType="class">
+    <entity name="CDWyprawy" representedClassName="CDWyprawy" syncable="YES">
         <attribute name="wyprawa_cisnienie" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="wyprawa_data" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="wyprawa_id" optional="YES" attributeType="Integer 32" usesScalarValueType="NO" syncable="YES"/>
@@ -84,8 +84,8 @@
         <attribute name="wyprawa_wilgotnosc" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <elements>
-        <element name="CDMojeLowiska" positionX="27" positionY="72" width="128" height="315"/>
         <element name="CDLowisko" positionX="72" positionY="252" width="128" height="270"/>
+        <element name="CDMojeLowiska" positionX="27" positionY="72" width="128" height="315"/>
         <element name="CDWyprawy" positionX="63" positionY="234" width="128" height="705"/>
     </elements>
 </model>

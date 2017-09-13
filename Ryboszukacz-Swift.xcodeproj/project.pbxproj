@@ -16,6 +16,7 @@
 		CE0F6C861F44BE070039B1E3 /* LowiskaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */; };
 		CE0F6C891F44DAD60039B1E3 /* UIToolbarExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */; };
 		CE384B911F6716BA006D9F14 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE384B901F6716BA006D9F14 /* Networking.swift */; };
+		CE384B931F671EC1006D9F14 /* LocalContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE384B921F671EC1006D9F14 /* LocalContent.swift */; };
 		CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A581F28E417008B25CB /* AppDelegate.swift */; };
 		CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5A1F28E417008B25CB /* MenuViewController.swift */; };
 		CE797A5E1F28E417008B25CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE797A5C1F28E417008B25CB /* Main.storyboard */; };
@@ -24,6 +25,16 @@
 		CE797A661F28E417008B25CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE797A641F28E417008B25CB /* LaunchScreen.storyboard */; };
 		CE797A711F28E417008B25CB /* Ryboszukacz_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A701F28E417008B25CB /* Ryboszukacz_SwiftTests.swift */; };
 		CE797A7C1F28E417008B25CB /* Ryboszukacz_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A7B1F28E417008B25CB /* Ryboszukacz_SwiftUITests.swift */; };
+		CEB9E0151F672422009B2DF2 /* CDLowisko+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB9E00F1F672422009B2DF2 /* CDLowisko+CoreDataClass.swift */; };
+		CEB9E0161F672422009B2DF2 /* CDLowisko+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB9E0101F672422009B2DF2 /* CDLowisko+CoreDataProperties.swift */; };
+		CEB9E0171F672422009B2DF2 /* CDMojeLowiska+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB9E0111F672422009B2DF2 /* CDMojeLowiska+CoreDataClass.swift */; };
+		CEB9E0181F672422009B2DF2 /* CDMojeLowiska+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB9E0121F672422009B2DF2 /* CDMojeLowiska+CoreDataProperties.swift */; };
+		CEB9E0191F672422009B2DF2 /* CDWyprawy+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB9E0131F672422009B2DF2 /* CDWyprawy+CoreDataClass.swift */; };
+		CEB9E01A1F672422009B2DF2 /* CDWyprawy+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB9E0141F672422009B2DF2 /* CDWyprawy+CoreDataProperties.swift */; };
+		CECDDC3E1F69BAF000F6ED32 /* CDLowiskoExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC3D1F69BAF000F6ED32 /* CDLowiskoExtension.swift */; };
+		CECDDC401F69C46800F6ED32 /* LowiskoAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC3F1F69C46800F6ED32 /* LowiskoAnnotationView.swift */; };
+		CECDDC421F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC411F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift */; };
+		CECDDC441F69D36100F6ED32 /* CDWyprawyExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC431F69D36100F6ED32 /* CDWyprawyExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +65,7 @@
 		CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LowiskaViewController.swift; sourceTree = "<group>"; };
 		CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIToolbarExtension.swift; sourceTree = "<group>"; };
 		CE384B901F6716BA006D9F14 /* Networking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
+		CE384B921F671EC1006D9F14 /* LocalContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalContent.swift; sourceTree = "<group>"; };
 		CE797A551F28E417008B25CB /* Ryboszukacz-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ryboszukacz-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE797A581F28E417008B25CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE797A5A1F28E417008B25CB /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MenuViewController.swift; path = ../MenuViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +80,16 @@
 		CE797A771F28E417008B25CB /* Ryboszukacz-SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ryboszukacz-SwiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE797A7B1F28E417008B25CB /* Ryboszukacz_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ryboszukacz_SwiftUITests.swift; sourceTree = "<group>"; };
 		CE797A7D1F28E417008B25CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEB9E00F1F672422009B2DF2 /* CDLowisko+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CDLowisko+CoreDataClass.swift"; sourceTree = "<group>"; };
+		CEB9E0101F672422009B2DF2 /* CDLowisko+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CDLowisko+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		CEB9E0111F672422009B2DF2 /* CDMojeLowiska+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CDMojeLowiska+CoreDataClass.swift"; sourceTree = "<group>"; };
+		CEB9E0121F672422009B2DF2 /* CDMojeLowiska+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CDMojeLowiska+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		CEB9E0131F672422009B2DF2 /* CDWyprawy+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CDWyprawy+CoreDataClass.swift"; sourceTree = "<group>"; };
+		CEB9E0141F672422009B2DF2 /* CDWyprawy+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CDWyprawy+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		CECDDC3D1F69BAF000F6ED32 /* CDLowiskoExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CDLowiskoExtension.swift; sourceTree = "<group>"; };
+		CECDDC3F1F69C46800F6ED32 /* LowiskoAnnotationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LowiskoAnnotationView.swift; sourceTree = "<group>"; };
+		CECDDC411F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CDMojeLowiskaExtension.swift; sourceTree = "<group>"; };
+		CECDDC431F69D36100F6ED32 /* CDWyprawyExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CDWyprawyExtension.swift; sourceTree = "<group>"; };
 		FAC715D892EEACA4A3C9E9EF /* Pods-Ryboszukacz-Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ryboszukacz-Swift.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ryboszukacz-Swift/Pods-Ryboszukacz-Swift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,6 +139,7 @@
 		CE0F6C7D1F4373E30039B1E3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				CECDDC3F1F69C46800F6ED32 /* LowiskoAnnotationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -125,6 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				CE384B901F6716BA006D9F14 /* Networking.swift */,
+				CE384B921F671EC1006D9F14 /* LocalContent.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -143,6 +167,15 @@
 		CE0F6C801F4373F70039B1E3 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				CECDDC3D1F69BAF000F6ED32 /* CDLowiskoExtension.swift */,
+				CEB9E00F1F672422009B2DF2 /* CDLowisko+CoreDataClass.swift */,
+				CEB9E0101F672422009B2DF2 /* CDLowisko+CoreDataProperties.swift */,
+				CECDDC411F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift */,
+				CEB9E0111F672422009B2DF2 /* CDMojeLowiska+CoreDataClass.swift */,
+				CEB9E0121F672422009B2DF2 /* CDMojeLowiska+CoreDataProperties.swift */,
+				CECDDC431F69D36100F6ED32 /* CDWyprawyExtension.swift */,
+				CEB9E0131F672422009B2DF2 /* CDWyprawy+CoreDataClass.swift */,
+				CEB9E0141F672422009B2DF2 /* CDWyprawy+CoreDataProperties.swift */,
 				CE797A5F1F28E417008B25CB /* LowiskaModelNew.xcdatamodeld */,
 				CE0F6C831F437AC50039B1E3 /* Constants.swift */,
 				CE074AA91F45F5DC00875BDC /* ObjectWithViewModel.swift */,
@@ -407,11 +440,22 @@
 				CE074AAC1F45F61600875BDC /* ViewModel.swift in Sources */,
 				CE384B911F6716BA006D9F14 /* Networking.swift in Sources */,
 				CE0F6C841F437AC50039B1E3 /* Constants.swift in Sources */,
+				CE384B931F671EC1006D9F14 /* LocalContent.swift in Sources */,
 				CE0F6C821F43744A0039B1E3 /* LicenseViewController.swift in Sources */,
 				CE074AAA1F45F5DC00875BDC /* ObjectWithViewModel.swift in Sources */,
+				CECDDC3E1F69BAF000F6ED32 /* CDLowiskoExtension.swift in Sources */,
+				CEB9E0171F672422009B2DF2 /* CDMojeLowiska+CoreDataClass.swift in Sources */,
+				CECDDC441F69D36100F6ED32 /* CDWyprawyExtension.swift in Sources */,
+				CECDDC421F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift in Sources */,
 				CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */,
+				CEB9E01A1F672422009B2DF2 /* CDWyprawy+CoreDataProperties.swift in Sources */,
+				CEB9E0191F672422009B2DF2 /* CDWyprawy+CoreDataClass.swift in Sources */,
+				CEB9E0181F672422009B2DF2 /* CDMojeLowiska+CoreDataProperties.swift in Sources */,
+				CEB9E0161F672422009B2DF2 /* CDLowisko+CoreDataProperties.swift in Sources */,
 				CE0F6C891F44DAD60039B1E3 /* UIToolbarExtension.swift in Sources */,
 				CE797A611F28E417008B25CB /* LowiskaModelNew.xcdatamodeld in Sources */,
+				CEB9E0151F672422009B2DF2 /* CDLowisko+CoreDataClass.swift in Sources */,
+				CECDDC401F69C46800F6ED32 /* LowiskoAnnotationView.swift in Sources */,
 				CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */,
 				CE0F6C861F44BE070039B1E3 /* LowiskaViewController.swift in Sources */,
 				CE074AA81F45F5A800875BDC /* LowiskaViewModel.swift in Sources */,
