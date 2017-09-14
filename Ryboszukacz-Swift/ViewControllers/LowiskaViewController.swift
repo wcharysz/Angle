@@ -44,8 +44,8 @@ class LowiskaViewController: UIViewController, UITextFieldDelegate, MKMapViewDel
         super.viewWillAppear(animated)
         let api = Networking()
         api.downloadLowiska()
-        
-        LocalContent.loadLocalLowiska()
+
+        viewModel.loadLowiska()
     }
 
     override func viewDidAppear(_ animated: Bool) {
@@ -69,12 +69,14 @@ class LowiskaViewController: UIViewController, UITextFieldDelegate, MKMapViewDel
             userMark?.annotation = annotation
             userMark?.isEnabled = true
             userMark?.canShowCallout = true
+            userMark?.image = userFlag
             
             return userMark
         }
         
         let lowiskoView = mapView.dequeueReusableAnnotationView(withIdentifier: lowiskoReusableIdentifier) as? LowiskoAnnotationView ?? LowiskoAnnotationView(annotation: annotation, reuseIdentifier: lowiskoReusableIdentifier)
         
+        lowiskoView.image = poiFlagImage
         lowiskoView.annotation = annotation
         lowiskoView.isEnabled = true
         lowiskoView.canShowCallout = true

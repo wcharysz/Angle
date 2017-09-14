@@ -15,10 +15,31 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     let dataStack = DataStack(xcodeModelName: "LowiskaModelNew", bundle: Bundle.main, migrationChain: nil)
-
+    
+    lazy var storage: SQLiteStore? = {
+        var url = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).last
+        url?.appendPathComponent("LowiskaModelNew.sqlite")
+        
+        if let url = url {
+            return SQLiteStore(fileURL: url)
+        }
+        
+        return nil
+    }()
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         CoreStore.defaultStack = dataStack
+        
+        do {
+            if let storage = storage {
+                try CoreStore.addStorageAndWait(storage)
+            } else {
+                try CoreStore.addStorageAndWait()
+            }
+        } catch let error {
+            print("CoreStore error ", error)
+        }
         
         return true
     }

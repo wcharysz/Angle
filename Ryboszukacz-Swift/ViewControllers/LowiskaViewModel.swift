@@ -36,11 +36,19 @@ class LowiskaViewModel: NSObject, ViewModel, CLLocationManagerDelegate {
     }
     
     func loadLowiska() {
-        lowiskaAnnotations = CoreStore.fetchAll(From<CDLowisko>()) ?? loadLowiskaFromAssets()
+        if let lowiska = CoreStore.fetchAll(From<CDLowisko>()), lowiska.count > 0 {
+            lowiskaAnnotations = lowiska
+        } else {
+            loadLowiskaFromAssets()
+        }
     }
     
-    func loadLowiskaFromAssets() -> [CDLowisko]? {
-        return nil
+    private func loadLowiskaFromAssets() {
+        let xml = LocalContent.loadLocalLowiska()
+        LocalContent.saveLowiskaXmlInCoreData(xml) { 
+            let lowiska = CoreStore.fetchAll(From<CDLowisko>())
+            self.lowiskaAnnotations = lowiska
+        }
     }
     
 }
