@@ -20,7 +20,6 @@ class LowiskaViewController: UIViewController, UITextFieldDelegate, MKMapViewDel
     let userMarkIdentifier = "USERPOZ"
     let userFlag = UIImage(named: "position_icon")
     let poiFlagImage = UIImage(named: "POI_flag")
-    let weatherImage = UIImage(named: "unknown")
 
     let lowiskoReusableIdentifier = "lowiskoReusableIdentifier"
     
@@ -80,24 +79,7 @@ class LowiskaViewController: UIViewController, UITextFieldDelegate, MKMapViewDel
         lowiskoView.annotation = annotation
         lowiskoView.isEnabled = true
         lowiskoView.canShowCallout = true
-        
-        var frame = CGRect.zero
-        frame.size = CGSize(width: 35, height: 35)
-        let weatherButton = UIButton(frame: frame)
-        weatherButton.setImage(weatherImage, for: .normal)
-        lowiskoView.rightCalloutAccessoryView = weatherButton
-        
-        let infoButton = UIButton(type: .custom)
-        infoButton.titleLabel?.numberOfLines = 3
-        infoButton.titleLabel?.lineBreakMode = .byWordWrapping
-        infoButton.titleLabel?.textAlignment = .center
-        infoButton.titleLabel?.adjustsFontSizeToFitWidth = true
-        infoButton.setTitleColor(UIColor.black, for: .normal)
-        infoButton.setTitle(annotation.title ?? "", for: .normal)
-        frame.size.width = 260
-        infoButton.frame = frame
-        lowiskoView.leftCalloutAccessoryView = infoButton
-        
+ 
         return lowiskoView
     }
     

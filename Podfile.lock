@@ -1,18 +1,21 @@
 PODS:
   - Alamofire (4.5.0)
   - CoreStore (4.0.5)
+  - SnapKit (3.2.0)
   - SWXMLHash (4.1.1)
 
 DEPENDENCIES:
   - Alamofire
   - CoreStore
+  - SnapKit
   - SWXMLHash
 
 SPEC CHECKSUMS:
   Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
   CoreStore: 07e6cc86894eb80df9ce6fd0e54122df1ccaf531
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
   SWXMLHash: 2ac748d1b7a429725d5fc99bb1177a685c4b84c7
 
-PODFILE CHECKSUM: 0b2e939513ff575d58899e388328d2daaa64b800
+PODFILE CHECKSUM: d012d8d635161688f8e198e1903eeb9575f85647
 
 COCOAPODS: 1.1.1

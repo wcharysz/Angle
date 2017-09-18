@@ -5,4 +5,5 @@ target 'Ryboszukacz-Swift' do
   pod 'Alamofire'
   pod 'CoreStore'
   pod 'SWXMLHash'
+  pod 'SnapKit'
 end

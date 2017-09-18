@@ -35,6 +35,7 @@
 		CECDDC401F69C46800F6ED32 /* LowiskoAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC3F1F69C46800F6ED32 /* LowiskoAnnotationView.swift */; };
 		CECDDC421F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC411F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift */; };
 		CECDDC441F69D36100F6ED32 /* CDWyprawyExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDDC431F69D36100F6ED32 /* CDWyprawyExtension.swift */; };
+		CEE6EF641F706E1600913428 /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6EF631F706E1600913428 /* ForecastViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,6 +91,7 @@
 		CECDDC3F1F69C46800F6ED32 /* LowiskoAnnotationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LowiskoAnnotationView.swift; sourceTree = "<group>"; };
 		CECDDC411F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CDMojeLowiskaExtension.swift; sourceTree = "<group>"; };
 		CECDDC431F69D36100F6ED32 /* CDWyprawyExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CDWyprawyExtension.swift; sourceTree = "<group>"; };
+		CEE6EF631F706E1600913428 /* ForecastViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForecastViewController.swift; sourceTree = "<group>"; };
 		FAC715D892EEACA4A3C9E9EF /* Pods-Ryboszukacz-Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ryboszukacz-Swift.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ryboszukacz-Swift/Pods-Ryboszukacz-Swift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -160,6 +162,7 @@
 				CE0F6C811F43744A0039B1E3 /* LicenseViewController.swift */,
 				CE074AA71F45F5A800875BDC /* LowiskaViewModel.swift */,
 				CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */,
+				CEE6EF631F706E1600913428 /* ForecastViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -446,6 +449,7 @@
 				CECDDC3E1F69BAF000F6ED32 /* CDLowiskoExtension.swift in Sources */,
 				CEB9E0171F672422009B2DF2 /* CDMojeLowiska+CoreDataClass.swift in Sources */,
 				CECDDC441F69D36100F6ED32 /* CDWyprawyExtension.swift in Sources */,
+				CEE6EF641F706E1600913428 /* ForecastViewController.swift in Sources */,
 				CECDDC421F69D29E00F6ED32 /* CDMojeLowiskaExtension.swift in Sources */,
 				CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */,
 				CEB9E01A1F672422009B2DF2 /* CDWyprawy+CoreDataProperties.swift in Sources */,

@@ -277,6 +277,86 @@
             </objects>
             <point key="canvasLocation" x="892.5" y="37.5"/>
         </scene>
+        <!--Forecast View Controller-->
+        <scene sceneID="fLf-cz-YJh">
+            <objects>
+                <viewController storyboardIdentifier="ForecastViewController" id="FnX-TS-N8s" customClass="ForecastViewController" customModule="Ryboszukacz_Swift" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ehi-lF-5Cw"/>
+                        <viewControllerLayoutGuide type="bottom" id="ruB-ty-1Tn"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="S3v-Ng-pKc">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="e5_e6_e25_background" translatesAutoresizingMaskIntoConstraints="NO" id="f1m-QT-TtH">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="420"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="nazwa" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NBF-tB-CCU">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Yyw-8F-Ikk"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Verdana-Bold" family="Verdana" pointSize="20"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="middle_bar_camera_gallery" translatesAutoresizingMaskIntoConstraints="NO" id="tmJ-50-vCS">
+                                <rect key="frame" x="0.0" y="420" width="320" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="20w-Jl-WdL"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YPF-fC-2Kj">
+                                <rect key="frame" x="135" y="428" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="YPF-fC-2Kj" secondAttribute="height" multiplier="1:1" id="aE7-8C-ESz"/>
+                                    <constraint firstAttribute="height" constant="50" id="r2k-Qi-8Qa"/>
+                                </constraints>
+                                <state key="normal" image="camera_ok_button"/>
+                                <state key="selected" image="camera_ok_button-over"/>
+                                <state key="highlighted" image="camera_ok_button-over"/>
+                                <connections>
+                                    <action selector="okTap:" destination="FnX-TS-N8s" eventType="touchUpInside" id="I2J-f4-owq"/>
+                                </connections>
+                            </button>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="VQL-Zj-rnt">
+                                <rect key="frame" x="0.0" y="50" width="320" height="378"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="YPF-fC-2Kj" firstAttribute="centerX" secondItem="S3v-Ng-pKc" secondAttribute="centerX" id="0EB-TD-AjQ"/>
+                            <constraint firstItem="f1m-QT-TtH" firstAttribute="leading" secondItem="S3v-Ng-pKc" secondAttribute="leading" id="3ga-mL-CEJ"/>
+                            <constraint firstItem="NBF-tB-CCU" firstAttribute="leading" secondItem="S3v-Ng-pKc" secondAttribute="leading" id="IlA-E1-1jA"/>
+                            <constraint firstAttribute="trailing" secondItem="NBF-tB-CCU" secondAttribute="trailing" id="VeU-4z-hTm"/>
+                            <constraint firstAttribute="trailing" secondItem="tmJ-50-vCS" secondAttribute="trailing" id="bNq-L9-otL"/>
+                            <constraint firstItem="VQL-Zj-rnt" firstAttribute="top" secondItem="NBF-tB-CCU" secondAttribute="bottom" id="bSf-VQ-cBM"/>
+                            <constraint firstAttribute="trailing" secondItem="f1m-QT-TtH" secondAttribute="trailing" id="blW-Zx-HYh"/>
+                            <constraint firstItem="tmJ-50-vCS" firstAttribute="centerX" secondItem="S3v-Ng-pKc" secondAttribute="centerX" id="dRS-Wi-zwM"/>
+                            <constraint firstItem="YPF-fC-2Kj" firstAttribute="top" secondItem="VQL-Zj-rnt" secondAttribute="bottom" id="hlq-kg-yvA"/>
+                            <constraint firstItem="NBF-tB-CCU" firstAttribute="top" secondItem="S3v-Ng-pKc" secondAttribute="top" id="jYJ-de-qxS"/>
+                            <constraint firstItem="tmJ-50-vCS" firstAttribute="leading" secondItem="S3v-Ng-pKc" secondAttribute="leading" id="kWm-aG-WZC"/>
+                            <constraint firstAttribute="bottom" secondItem="tmJ-50-vCS" secondAttribute="bottom" id="mya-AN-FM9"/>
+                            <constraint firstAttribute="trailing" secondItem="VQL-Zj-rnt" secondAttribute="trailing" id="nRb-Ml-giG"/>
+                            <constraint firstItem="VQL-Zj-rnt" firstAttribute="leading" secondItem="S3v-Ng-pKc" secondAttribute="leading" id="nte-F0-ifX"/>
+                            <constraint firstAttribute="bottom" secondItem="YPF-fC-2Kj" secondAttribute="bottom" constant="2" id="piF-ps-lie"/>
+                            <constraint firstAttribute="trailing" secondItem="NBF-tB-CCU" secondAttribute="trailing" id="q3V-OD-k7d"/>
+                            <constraint firstItem="NBF-tB-CCU" firstAttribute="top" secondItem="S3v-Ng-pKc" secondAttribute="top" id="qEi-oX-KrP"/>
+                            <constraint firstItem="f1m-QT-TtH" firstAttribute="top" secondItem="S3v-Ng-pKc" secondAttribute="top" id="r3w-iT-ctX"/>
+                            <constraint firstItem="tmJ-50-vCS" firstAttribute="top" secondItem="f1m-QT-TtH" secondAttribute="bottom" id="rAo-pt-X4a"/>
+                            <constraint firstItem="NBF-tB-CCU" firstAttribute="leading" secondItem="S3v-Ng-pKc" secondAttribute="leading" id="xIA-2b-pkO"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="nazwaLowiskaLabel" destination="NBF-tB-CCU" id="ykZ-lO-dz1"/>
+                        <outlet property="tableView" destination="VQL-Zj-rnt" id="i5T-Ae-3gm"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x7L-8c-ClI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1625.625" y="37.5"/>
+        </scene>
         <!--License View Controller-->
         <scene sceneID="fsf-gy-vSR">
             <objects>
@@ -380,8 +460,11 @@ Przechodząc dalej akceptujesz powyższe  warunki użytkowania aplikacji.</strin
         <image name="background_1" width="320" height="395"/>
         <image name="bottom_bar" width="320" height="35"/>
         <image name="brania_button" width="60" height="22"/>
+        <image name="camera_ok_button" width="50" height="50"/>
+        <image name="camera_ok_button-over" width="50" height="50"/>
         <image name="dziennik_ico" width="120" height="120"/>
         <image name="dziennik_ico-over" width="120" height="120"/>
+        <image name="e5_e6_e25_background" width="320" height="420"/>
         <image name="kalendarz_bran_ico" width="120" height="120"/>
         <image name="kalendarz_bran_ico-over" width="120" height="120"/>
         <image name="lowiska_ico" width="120" height="120"/>
@@ -389,6 +472,7 @@ Przechodząc dalej akceptujesz powyższe  warunki użytkowania aplikacji.</strin
         <image name="lowiska_text" width="320" height="16"/>
         <image name="map_button" width="50" height="32"/>
         <image name="menu_text" width="320" height="16"/>
+        <image name="middle_bar_camera_gallery" width="320" height="60"/>
         <image name="moje_lowiska_ico" width="120" height="120"/>
         <image name="moje_lowiska_ico-over" width="120" height="120"/>
         <image name="ok_button" width="50" height="50"/>
