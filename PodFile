@@ -3,7 +3,9 @@ use_frameworks!
 
 target 'Ryboszukacz-Swift' do
   pod 'Alamofire'
-  pod 'CoreStore'
+  pod 'CoreStore', :git => 'https://github.com/JohnEstropia/CoreStore.git', :branch => 'prototype/Swift_4_0'
   pod 'SWXMLHash'
   pod 'SnapKit'
+  pod 'ObjectMapper', :git => 'https://github.com/Hearst-DD/ObjectMapper.git', :branch => 'swift-4'
+  pod 'AlamofireObjectMapper', :git => 'https://github.com/tristanhimmelman/AlamofireObjectMapper.git', :branch => 'swift-4'
 end

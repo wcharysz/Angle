@@ -8,10 +8,17 @@
 
 import UIKit
 
-class ForecastViewController: UIViewController {
+class ForecastViewController: UIViewController, UITabBarDelegate, UITableViewDataSource, ObjectWithViewModel {
     
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var nazwaLowiskaLabel: UILabel!
+    
+    lazy var viewModel: ForecastViewModel = {
+        let model = ForecastViewModel()
+        model.delegate = self
+
+        return model
+    }()
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,11 +26,20 @@ class ForecastViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return 4
     }
     
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: ForecastTableViewCell.identifier, for: indexPath) as? ForecastTableViewCell else {
+            return UITableViewCell()
+        }
+        
+        cell.isCurrentWeather = indexPath.row == 0
+        
+        
+        return cell
+    }
 
     @IBAction func okTap(_ buttton: UIButton) {
         

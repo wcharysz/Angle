@@ -17,6 +17,9 @@
 		CE0F6C891F44DAD60039B1E3 /* UIToolbarExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */; };
 		CE384B911F6716BA006D9F14 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE384B901F6716BA006D9F14 /* Networking.swift */; };
 		CE384B931F671EC1006D9F14 /* LocalContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE384B921F671EC1006D9F14 /* LocalContent.swift */; };
+		CE69EB9D1F71A25800408548 /* ForecastTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE69EB9C1F71A25800408548 /* ForecastTableViewCell.swift */; };
+		CE69EB9F1F71B5DB00408548 /* ForecastViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE69EB9E1F71B5DB00408548 /* ForecastViewModel.swift */; };
+		CE69EBA11F71BB9B00408548 /* WeatherConditions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE69EBA01F71BB9B00408548 /* WeatherConditions.swift */; };
 		CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A581F28E417008B25CB /* AppDelegate.swift */; };
 		CE797A5B1F28E417008B25CB /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE797A5A1F28E417008B25CB /* MenuViewController.swift */; };
 		CE797A5E1F28E417008B25CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE797A5C1F28E417008B25CB /* Main.storyboard */; };
@@ -67,6 +70,9 @@
 		CE0F6C881F44DAD60039B1E3 /* UIToolbarExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIToolbarExtension.swift; sourceTree = "<group>"; };
 		CE384B901F6716BA006D9F14 /* Networking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
 		CE384B921F671EC1006D9F14 /* LocalContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalContent.swift; sourceTree = "<group>"; };
+		CE69EB9C1F71A25800408548 /* ForecastTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForecastTableViewCell.swift; sourceTree = "<group>"; };
+		CE69EB9E1F71B5DB00408548 /* ForecastViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForecastViewModel.swift; sourceTree = "<group>"; };
+		CE69EBA01F71BB9B00408548 /* WeatherConditions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherConditions.swift; sourceTree = "<group>"; };
 		CE797A551F28E417008B25CB /* Ryboszukacz-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ryboszukacz-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE797A581F28E417008B25CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE797A5A1F28E417008B25CB /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MenuViewController.swift; path = ../MenuViewController.swift; sourceTree = "<group>"; };
@@ -142,6 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				CECDDC3F1F69C46800F6ED32 /* LowiskoAnnotationView.swift */,
+				CE69EB9C1F71A25800408548 /* ForecastTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -163,6 +170,7 @@
 				CE074AA71F45F5A800875BDC /* LowiskaViewModel.swift */,
 				CE0F6C851F44BE070039B1E3 /* LowiskaViewController.swift */,
 				CEE6EF631F706E1600913428 /* ForecastViewController.swift */,
+				CE69EB9E1F71B5DB00408548 /* ForecastViewModel.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -183,6 +191,7 @@
 				CE0F6C831F437AC50039B1E3 /* Constants.swift */,
 				CE074AA91F45F5DC00875BDC /* ObjectWithViewModel.swift */,
 				CE074AAB1F45F61600875BDC /* ViewModel.swift */,
+				CE69EBA01F71BB9B00408548 /* WeatherConditions.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -318,7 +327,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "J Apps!";
 				TargetAttributes = {
 					CE797A541F28E417008B25CB = {
@@ -440,9 +449,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE69EB9D1F71A25800408548 /* ForecastTableViewCell.swift in Sources */,
 				CE074AAC1F45F61600875BDC /* ViewModel.swift in Sources */,
 				CE384B911F6716BA006D9F14 /* Networking.swift in Sources */,
 				CE0F6C841F437AC50039B1E3 /* Constants.swift in Sources */,
+				CE69EB9F1F71B5DB00408548 /* ForecastViewModel.swift in Sources */,
 				CE384B931F671EC1006D9F14 /* LocalContent.swift in Sources */,
 				CE0F6C821F43744A0039B1E3 /* LicenseViewController.swift in Sources */,
 				CE074AAA1F45F5DC00875BDC /* ObjectWithViewModel.swift in Sources */,
@@ -462,6 +473,7 @@
 				CECDDC401F69C46800F6ED32 /* LowiskoAnnotationView.swift in Sources */,
 				CE797A591F28E417008B25CB /* AppDelegate.swift in Sources */,
 				CE0F6C861F44BE070039B1E3 /* LowiskaViewController.swift in Sources */,
+				CE69EBA11F71BB9B00408548 /* WeatherConditions.swift in Sources */,
 				CE074AA81F45F5A800875BDC /* LowiskaViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -527,7 +539,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -535,7 +549,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -564,6 +582,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -578,7 +597,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -586,7 +607,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -607,6 +632,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -616,6 +642,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0EA75DFACE9B4591A46448D8 /* Pods-Ryboszukacz-Swift.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = QDHH6LE8HP;
 				INFOPLIST_FILE = "Ryboszukacz-Swift/Info.plist";
@@ -623,7 +650,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -631,6 +658,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FAC715D892EEACA4A3C9E9EF /* Pods-Ryboszukacz-Swift.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = QDHH6LE8HP;
 				INFOPLIST_FILE = "Ryboszukacz-Swift/Info.plist";
@@ -638,7 +666,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -652,7 +680,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-SwiftTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ryboszukacz-Swift.app/Ryboszukacz-Swift";
 			};
 			name = Debug;
@@ -667,7 +695,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-SwiftTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ryboszukacz-Swift.app/Ryboszukacz-Swift";
 			};
 			name = Release;
@@ -681,7 +709,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-SwiftUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = "Ryboszukacz-Swift";
 			};
 			name = Debug;
@@ -695,7 +723,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "pl.j-apps.Ryboszukacz-SwiftUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = "Ryboszukacz-Swift";
 			};
 			name = Release;

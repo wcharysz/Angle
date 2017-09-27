@@ -1447,7 +1447,7 @@ class MyViewController: UIViewController, ObjectObserver {
         // ...
     }
     
-    func objectMonitor(monitor: ObjectMonitor<MyPersonEntity>, didUpdateObject object: MyPersonEntity, changedPersistentKeys: Set<KeyPath>) {
+    func objectMonitor(monitor: ObjectMonitor<MyPersonEntity>, didUpdateObject object: MyPersonEntity, changedPersistentKeys: Set<RawKeyPath>) {
         // ...
     }
     
@@ -1722,7 +1722,7 @@ These special properties' values can be accessed or mutated using `.value`:
 ```swift
 CoreStore.perform(
     asynchronous: { (transaction) in
-        let dog: Dog = CoreStore.fetchOne(From<Dog>())!
+        let dog: Dog = transaction.fetchOne(From<Dog>())!
         // ...
         let nickname = dog.nickname.value // String?
         let species = dog.species.value // String

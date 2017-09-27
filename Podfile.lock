@@ -1,21 +1,51 @@
 PODS:
-  - Alamofire (4.5.0)
-  - CoreStore (4.0.5)
-  - SnapKit (3.2.0)
-  - SWXMLHash (4.1.1)
+  - Alamofire (4.5.1)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - CoreStore (4.1.1)
+  - ObjectMapper (3.0.0)
+  - SnapKit (4.0.0)
+  - SWXMLHash (4.2.2)
 
 DEPENDENCIES:
   - Alamofire
-  - CoreStore
+  - AlamofireObjectMapper (from `https://github.com/tristanhimmelman/AlamofireObjectMapper.git`, branch `swift-4`)
+  - CoreStore (from `https://github.com/JohnEstropia/CoreStore.git`, branch `prototype/Swift_4_0`)
+  - ObjectMapper (from `https://github.com/Hearst-DD/ObjectMapper.git`, branch `swift-4`)
   - SnapKit
   - SWXMLHash
 
-SPEC CHECKSUMS:
-  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
-  CoreStore: 07e6cc86894eb80df9ce6fd0e54122df1ccaf531
-  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
-  SWXMLHash: 2ac748d1b7a429725d5fc99bb1177a685c4b84c7
+EXTERNAL SOURCES:
+  AlamofireObjectMapper:
+    :branch: swift-4
+    :git: https://github.com/tristanhimmelman/AlamofireObjectMapper.git
+  CoreStore:
+    :branch: prototype/Swift_4_0
+    :git: https://github.com/JohnEstropia/CoreStore.git
+  ObjectMapper:
+    :branch: swift-4
+    :git: https://github.com/Hearst-DD/ObjectMapper.git
 
-PODFILE CHECKSUM: d012d8d635161688f8e198e1903eeb9575f85647
+CHECKOUT OPTIONS:
+  AlamofireObjectMapper:
+    :commit: 9304efad0c1f68d6fc25cf565bd30ff862501664
+    :git: https://github.com/tristanhimmelman/AlamofireObjectMapper.git
+  CoreStore:
+    :commit: e2236698fa1d313896ca960b840b9a0d7e8de1f8
+    :git: https://github.com/JohnEstropia/CoreStore.git
+  ObjectMapper:
+    :commit: 18051553fc44e98ffb1b7e93fa94cd184283d993
+    :git: https://github.com/Hearst-DD/ObjectMapper.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireObjectMapper: e1ff207b71715478ab69f12ca85112f37b139de8
+  CoreStore: 8971549d69b3885cd3542c7cc6a597059635e690
+  ObjectMapper: 739e5530df22248823f6cc7ed9e016ebf2c26a27
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SWXMLHash: 84463c0767c7c117990d2b15dd2d922dc2a689fa
+
+PODFILE CHECKSUM: 71ffc41a3c76e63199080db52f62d91cb34651e9
 
 COCOAPODS: 1.1.1

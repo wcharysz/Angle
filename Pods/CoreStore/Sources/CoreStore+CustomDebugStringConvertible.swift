@@ -868,7 +868,8 @@ extension SQLiteStore: CustomDebugStringConvertible, CoreStoreDebugStringConvert
             ("storeOptions", self.storeOptions as Any),
             ("fileURL", self.fileURL),
             ("migrationMappingProviders", self.migrationMappingProviders),
-            ("localStorageOptions", self.localStorageOptions)
+            ("localStorageOptions", self.localStorageOptions),
+            ("fileSize", self.fileSize() as Any)
         )
     }
 }
@@ -1092,15 +1093,6 @@ fileprivate extension String {
         return String(repeating: " ", count: level * 4)
     }
     
-    fileprivate func trimSwiftModuleName() -> String {
-        
-        if self.hasPrefix("Swift.") {
-            
-            return self.substring(from: "Swift.".endIndex)
-        }
-        return self
-    }
-    
     fileprivate mutating func indent(_ level: Int) {
         
         self = self.replacingOccurrences(of: "\n", with: "\n\(String.indention(level))")
@@ -1214,6 +1206,8 @@ extension NSAttributeType: CoreStoreDebugStringConvertible {
         case .binaryDataAttributeType:      return ".binaryDataAttributeType"
         case .transformableAttributeType:   return ".transformableAttributeType"
         case .objectIDAttributeType:        return ".objectIDAttributeType"
+        case .UUIDAttributeType:            return ".UUIDAttributeType"
+        case .URIAttributeType:             return ".URIAttributeType"
         }
     }
 }

@@ -28,4 +28,8 @@ class Networking {
             })
         }
     }
+    
+    func downloadWheatherConditions() {
+        
+    }
 }

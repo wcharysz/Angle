@@ -95,10 +95,10 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -129,11 +129,11 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToOne<O>,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -164,11 +164,11 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToManyOrdered<O>,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -199,11 +199,11 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToManyUnordered<O>,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -234,16 +234,16 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         
         // MARK: RelationshipProtocol
         
-        public let keyPath: KeyPath
+        public let keyPath: RawKeyPath
         
         internal let isToMany = false
         internal let isOrdered = false
         internal let deleteRule: NSDeleteRule
         internal let minCount: Int = 0
         internal let maxCount: Int = 1
-        internal let inverse: (type: CoreStoreObject.Type, keyPath: () -> KeyPath?)
-        internal let versionHashModifier: String?
-        internal let renamingIdentifier: String?
+        internal let inverse: (type: CoreStoreObject.Type, keyPath: () -> RawKeyPath?)
+        internal let versionHashModifier: () -> String?
+        internal let renamingIdentifier: () -> String?
         internal let affectedByKeyPaths: () -> Set<String>
         internal weak var parentObject: CoreStoreObject?
         
@@ -294,7 +294,7 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         
         // MARK: Private
         
-        private init(keyPath: KeyPath, inverseKeyPath: @escaping () -> KeyPath?, deleteRule: DeleteRule, versionHashModifier: String?, renamingIdentifier: String?, affectedByKeyPaths: @autoclosure @escaping () -> Set<String>) {
+        private init(keyPath: RawKeyPath, inverseKeyPath: @escaping () -> RawKeyPath?, deleteRule: DeleteRule, versionHashModifier: @autoclosure @escaping () -> String?, renamingIdentifier: @autoclosure @escaping () -> String?, affectedByKeyPaths: @autoclosure @escaping () -> Set<String>) {
             
             self.keyPath = keyPath
             self.deleteRule = deleteRule.nativeValue
@@ -341,12 +341,12 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             minCount: Int = 0,
             maxCount: Int = 0,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -381,13 +381,13 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             minCount: Int = 0,
             maxCount: Int = 0,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToOne<O>,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -422,13 +422,13 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             minCount: Int = 0,
             maxCount: Int = 0,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToManyOrdered<O>,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -463,13 +463,13 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             minCount: Int = 0,
             maxCount: Int = 0,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToManyUnordered<O>,
             deleteRule: DeleteRule = .nullify,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -502,7 +502,7 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         
         // MARK: RelationshipProtocol
         
-        public let keyPath: KeyPath
+        public let keyPath: RawKeyPath
         
         internal let isToMany = true
         internal let isOptional = true
@@ -510,9 +510,9 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         internal let deleteRule: NSDeleteRule
         internal let minCount: Int
         internal let maxCount: Int
-        internal let inverse: (type: CoreStoreObject.Type, keyPath: () -> KeyPath?)
-        internal let versionHashModifier: String?
-        internal let renamingIdentifier: String?
+        internal let inverse: (type: CoreStoreObject.Type, keyPath: () -> RawKeyPath?)
+        internal let versionHashModifier: () -> String?
+        internal let renamingIdentifier: () -> String?
         internal let affectedByKeyPaths: () -> Set<String>
         internal weak var parentObject: CoreStoreObject?
         
@@ -563,7 +563,7 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         
         // MARK: Private
         
-        private init(keyPath: String, minCount: Int, maxCount: Int, inverseKeyPath: @escaping () -> String?, deleteRule: DeleteRule, versionHashModifier: String?, renamingIdentifier: String?, affectedByKeyPaths: @autoclosure @escaping () -> Set<String>) {
+        private init(keyPath: String, minCount: Int, maxCount: Int, inverseKeyPath: @escaping () -> String?, deleteRule: DeleteRule, versionHashModifier: @autoclosure @escaping () -> String?, renamingIdentifier: @autoclosure @escaping () -> String?, affectedByKeyPaths: @autoclosure @escaping () -> Set<String>) {
             
             self.keyPath = keyPath
             self.deleteRule = deleteRule.nativeValue
@@ -615,12 +615,12 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             deleteRule: DeleteRule = .nullify,
             minCount: Int = 0,
             maxCount: Int = 0,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -655,13 +655,13 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToOne<O>,
             deleteRule: DeleteRule = .nullify,
             minCount: Int = 0,
             maxCount: Int = 0,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -696,13 +696,13 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToManyOrdered<O>,
             deleteRule: DeleteRule = .nullify,
             minCount: Int = 0,
             maxCount: Int = 0,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -737,13 +737,13 @@ public enum RelationshipContainer<O: CoreStoreObject> {
          - parameter affectedByKeyPaths: a set of key paths for properties whose values affect the value of the receiver. This is similar to `NSManagedObject.keyPathsForValuesAffectingValue(forKey:)`.
          */
         public convenience init(
-            _ keyPath: KeyPath,
+            _ keyPath: RawKeyPath,
             inverse: @escaping (D) -> RelationshipContainer<D>.ToManyUnordered<O>,
             deleteRule: DeleteRule = .nullify,
             minCount: Int = 0,
             maxCount: Int = 0,
-            versionHashModifier: String? = nil,
-            renamingIdentifier: String? = nil,
+            versionHashModifier: @autoclosure @escaping () -> String? = nil,
+            renamingIdentifier: @autoclosure @escaping () -> String? = nil,
             affectedByKeyPaths: @autoclosure @escaping () -> Set<String> = []) {
             
             self.init(
@@ -776,7 +776,7 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         
         // MARK: RelationshipProtocol
         
-        public let keyPath: KeyPath
+        public let keyPath: RawKeyPath
         
         internal let isToMany = true
         internal let isOptional = true
@@ -784,9 +784,9 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         internal let deleteRule: NSDeleteRule
         internal let minCount: Int
         internal let maxCount: Int
-        internal let inverse: (type: CoreStoreObject.Type, keyPath: () -> KeyPath?)
-        internal let versionHashModifier: String?
-        internal let renamingIdentifier: String?
+        internal let inverse: (type: CoreStoreObject.Type, keyPath: () -> RawKeyPath?)
+        internal let versionHashModifier: () -> String?
+        internal let renamingIdentifier: () -> String?
         internal let affectedByKeyPaths: () -> Set<String>
         internal weak var parentObject: CoreStoreObject?
         
@@ -837,7 +837,7 @@ public enum RelationshipContainer<O: CoreStoreObject> {
         
         // MARK: Private
         
-        private init(keyPath: KeyPath, inverseKeyPath: @escaping () -> KeyPath?, deleteRule: DeleteRule, minCount: Int, maxCount: Int, versionHashModifier: String?, renamingIdentifier: String?, affectedByKeyPaths: @autoclosure @escaping () -> Set<String>) {
+        private init(keyPath: RawKeyPath, inverseKeyPath: @escaping () -> RawKeyPath?, deleteRule: DeleteRule, minCount: Int, maxCount: Int, versionHashModifier: @autoclosure @escaping () -> String?, renamingIdentifier: @autoclosure @escaping () -> String?, affectedByKeyPaths: @autoclosure @escaping () -> Set<String>) {
             
             self.keyPath = keyPath
             self.deleteRule = deleteRule.nativeValue
@@ -884,7 +884,7 @@ extension RelationshipContainer.ToManyOrdered: RandomAccessCollection {
     
     public func makeIterator() -> Iterator {
         
-        let iterator = self.nativeValue.makeIterator()
+        var iterator = self.nativeValue.makeIterator()
         return AnyIterator({ iterator.next().flatMap({ D.cs_fromRaw(object: $0 as! NSManagedObject) }) })
     }
     
@@ -939,7 +939,7 @@ extension RelationshipContainer.ToManyUnordered: Sequence {
     
     public func makeIterator() -> Iterator {
         
-        let iterator = self.nativeValue.makeIterator()
+        var iterator = self.nativeValue.makeIterator()
         return AnyIterator({ iterator.next().flatMap({ D.cs_fromRaw(object: $0 as! NSManagedObject) }) })
     }
 }
@@ -977,7 +977,7 @@ extension RelationshipContainer.ToOne {
      dog.master.value = anotherDog.master.value
      ```
      */
-    public static func .= <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToOne<D>, _ relationship2: RelationshipContainer<O2>.ToOne<D>) {
+    public static func .= <O2>(_ relationship: RelationshipContainer<O>.ToOne<D>, _ relationship2: RelationshipContainer<O2>.ToOne<D>) {
         
         relationship.nativeValue = relationship2.nativeValue
     }
@@ -1022,7 +1022,7 @@ extension RelationshipContainer.ToOne {
      if dog.master.value == person { ... }
      ```
      */
-    public static func .== <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToOne<D>, _ relationship2: RelationshipContainer<O2>.ToOne<D>) -> Bool {
+    public static func .== <O2>(_ relationship: RelationshipContainer<O>.ToOne<D>, _ relationship2: RelationshipContainer<O2>.ToOne<D>) -> Bool {
         
         return relationship.nativeValue == relationship2.nativeValue
     }
@@ -1055,7 +1055,7 @@ extension RelationshipContainer.ToManyOrdered {
      person.pets.value = anotherPerson.pets.value
      ```
      */
-    public static func .= <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToManyOrdered<D>, _ relationship2: RelationshipContainer<O2>.ToManyOrdered<D>) {
+    public static func .= <O2>(_ relationship: RelationshipContainer<O>.ToManyOrdered<D>, _ relationship2: RelationshipContainer<O2>.ToManyOrdered<D>) {
         
         relationship.nativeValue = relationship2.nativeValue
     }
@@ -1106,7 +1106,7 @@ extension RelationshipContainer.ToManyOrdered {
      if person.pets.value == anotherPerson.pets.value { ... }
      ```
      */
-    public static func .== <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToManyOrdered<D>, _ relationship2: RelationshipContainer<O2>.ToManyOrdered<D>) -> Bool {
+    public static func .== <O2>(_ relationship: RelationshipContainer<O>.ToManyOrdered<D>, _ relationship2: RelationshipContainer<O2>.ToManyOrdered<D>) -> Bool {
         
         return relationship.nativeValue == relationship2.nativeValue
     }
@@ -1139,7 +1139,7 @@ extension RelationshipContainer.ToManyUnordered {
      person.pets.value = anotherPerson.pets.value
      ```
      */
-    public static func .= <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToManyUnordered<D>, _ relationship2: RelationshipContainer<O2>.ToManyUnordered<D>) {
+    public static func .= <O2>(_ relationship: RelationshipContainer<O>.ToManyUnordered<D>, _ relationship2: RelationshipContainer<O2>.ToManyUnordered<D>) {
         
         relationship.nativeValue = relationship2.nativeValue
     }
@@ -1154,7 +1154,7 @@ extension RelationshipContainer.ToManyUnordered {
      person.pets.value = anotherPerson.pets.value
      ```
      */
-    public static func .= <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToManyUnordered<D>, _ relationship2: RelationshipContainer<O2>.ToManyOrdered<D>) {
+    public static func .= <O2>(_ relationship: RelationshipContainer<O>.ToManyUnordered<D>, _ relationship2: RelationshipContainer<O2>.ToManyOrdered<D>) {
         
         relationship.nativeValue = NSSet(set: relationship2.nativeValue.set)
     }
@@ -1199,26 +1199,8 @@ extension RelationshipContainer.ToManyUnordered {
      if person.pets.value == anotherPerson.pets.value { ... }
      ```
      */
-    public static func .== <O2: CoreStoreObject>(_ relationship: RelationshipContainer<O>.ToManyUnordered<D>, _ relationship2: RelationshipContainer<O2>.ToManyUnordered<D>) -> Bool {
+    public static func .== <O2>(_ relationship: RelationshipContainer<O>.ToManyUnordered<D>, _ relationship2: RelationshipContainer<O2>.ToManyUnordered<D>) -> Bool {
         
         return relationship.nativeValue.isEqual(relationship2.nativeValue)
     }
-}
-
-
-// MARK: - RelationshipProtocol
-
-internal protocol RelationshipProtocol: class {
-    
-    var keyPath: KeyPath { get }
-    var isToMany: Bool { get }
-    var isOrdered: Bool { get }
-    var deleteRule: NSDeleteRule { get }
-    var inverse: (type: CoreStoreObject.Type, keyPath: () -> KeyPath?) { get }
-    var affectedByKeyPaths: () -> Set<String> { get }
-    weak var parentObject: CoreStoreObject? { get set }
-    var versionHashModifier: String? { get }
-    var renamingIdentifier: String? { get }
-    var minCount: Int { get }
-    var maxCount: Int { get }
 }

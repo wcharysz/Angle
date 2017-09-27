@@ -61,10 +61,6 @@ public extension DataStack {
         )
         transaction.transactionQueue.cs_async {
             
-            defer {
-                
-                withExtendedLifetime((self, transaction), {})
-            }
             let userInfo: T
             do {
                 
@@ -82,6 +78,10 @@ public extension DataStack {
             }
             transaction.autoCommit { (_, error) in
                 
+                defer {
+                    
+                    withExtendedLifetime((self, transaction), {})
+                }
                 if let error = error {
                     
                     failure(error)
@@ -95,7 +95,7 @@ public extension DataStack {
     }
     
     /**
-     Performs a transaction synchronously where `NSManagedObject` or `CoreStoreObject` creates, updates, and deletes can be made. The changes are commited automatically after the `task` closure returns. On success, the value returned from closure will be the return value of `perform(synchronous:)`. Any errors thrown from inside the `task` will be rethrown from `perform(synchronous:)`. To cancel/rollback changes, call `try transaction.cancel()`, which throws a `CoreStoreError.userCancelled`.
+     Performs a transaction synchronously where `NSManagedObject` or `CoreStoreObject` creates, updates, and deletes can be made. The changes are commited automatically after the `task` closure returns. On success, the value returned from closure will be the return value of `perform(synchronous:)`. Any errors thrown from inside the `task` will be thrown from `perform(synchronous:)`. To cancel/rollback changes, call `try transaction.cancel()`, which throws a `CoreStoreError.userCancelled`.
      
      - parameter task: the synchronous non-escaping closure where creates, updates, and deletes can be made to the transaction. Transaction blocks are executed serially in a background queue, and all changes are made from a concurrent `NSManagedObjectContext`.
      - parameter waitForAllObservers: When `true`, this method waits for all observers to be notified of the changes before returning. This results in more predictable data update order, but may risk triggering deadlocks. When `false`, this method does not wait for observers to be notified of the changes before returning. This results in lower risk for deadlocks, but the updated data may not have been propagated to the `DataStack` after returning. Defaults to `true`.
@@ -211,9 +211,9 @@ public extension DataStack {
         }
         switch transaction.result {
             
-        case nil:                       return nil
-        case (let hasChanges, nil)?:    return SaveResult(hasChanges: hasChanges)
-        case (_, let error?)?:          return SaveResult(error)
+        case .none:                         return nil
+        case .some(let hasChanges, nil):    return SaveResult(hasChanges: hasChanges)
+        case .some(_, let error?):          return SaveResult(error)
         }
     }
 }

@@ -27,9 +27,9 @@ import Foundation
 import CoreData
 
 
-// MARK: - KeyPath
+// MARK: - RawKeyPath
     
-public typealias KeyPath = String
+public typealias RawKeyPath = String
 
 
 // MARK: - SortKey
@@ -40,14 +40,14 @@ public typealias KeyPath = String
 public enum SortKey {
     
     /**
-     Indicates that the `KeyPath` should be sorted in ascending order
+     Indicates that the `RawKeyPath` should be sorted in ascending order
      */
-    case ascending(KeyPath)
+    case ascending(RawKeyPath)
     
     /**
-     Indicates that the `KeyPath` should be sorted in descending order
+     Indicates that the `RawKeyPath` should be sorted in descending order
      */
-    case descending(KeyPath)
+    case descending(RawKeyPath)
 }
 
 
@@ -143,7 +143,7 @@ public struct OrderBy: FetchClause, QueryClause, DeleteClause, Hashable {
     
     // MARK: FetchClause, QueryClause, DeleteClause
     
-    public func applyToFetchRequest<ResultType: NSFetchRequestResult>(_ fetchRequest: NSFetchRequest<ResultType>) {
+    public func applyToFetchRequest<ResultType>(_ fetchRequest: NSFetchRequest<ResultType>) {
         
         if let sortDescriptors = fetchRequest.sortDescriptors, sortDescriptors != self.sortDescriptors {
             
@@ -170,5 +170,19 @@ public struct OrderBy: FetchClause, QueryClause, DeleteClause, Hashable {
     public var hashValue: Int {
         
         return (self.sortDescriptors as NSArray).hashValue
+    }
+}
+
+
+// MARK: - Sequence where Element == OrderBy
+
+public extension Sequence where Iterator.Element == OrderBy {
+    
+    /**
+     Combines multiple `OrderBy` predicates together
+     */
+    public func combined() -> OrderBy {
+        
+        return OrderBy(self.flatMap({ $0.sortDescriptors }))
     }
 }
